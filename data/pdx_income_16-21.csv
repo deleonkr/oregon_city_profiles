@@ -1,0 +1,62 @@
+"GEOID","NAME","variable","year_2016","year_2021","change","pct_change"
+"4147800","Metzger CDP, Oregon","median_income",63363,79344,15981,25.2213436863785
+"4160900","Raleigh Hills CDP, Oregon","median_income",89576,110296,20720,23.1311958560329
+"4128100","Gaston city, Oregon","median_income",67579,81250,13671,20.2296571420116
+"4162250","Rivergrove city, Oregon","median_income",137901,158000,20099,14.5749486950784
+"4123800","Estacada city, Oregon","median_income",65492,75000,9508,14.5178037012154
+"4126200","Forest Grove city, Oregon","median_income",64330,73499,9169,14.2530701072594
+"4129000","Gladstone city, Oregon","median_income",73765,83214,9449,12.8095980478547
+"4121250","Durham city, Oregon","median_income",84457,94524,10067,11.9196751009389
+"4165250","Sandy city, Oregon","median_income",79595,88775,9180,11.533387775614
+"4173650","Tigard city, Oregon","median_income",84521,93532,9011,10.6612557825866
+"4153150","North Plains city, Oregon","median_income",93107,101988,8881,9.53848797619943
+"4180150","West Linn city, Oregon","median_income",115877,124098,8221,7.09459167910802
+"4105350","Beaverton city, Oregon","median_income",76928,82380,5452,7.08714642262895
+"4174950","Tualatin city, Oregon","median_income",92767,97931,5164,5.56663468690375
+"4149450","Molalla city, Oregon","median_income",71072,74718,3646,5.13000900495272
+"4110750","Canby city, Oregon","median_income",80044,83948,3904,4.87731747538854
+"4174850","Troutdale city, Oregon","median_income",81279,85131,3852,4.73923153582106
+"4159000","Portland city, Oregon","median_income",75383,78476,3093,4.10304710611146
+"4140550","Lake Oswego city, Oregon","median_income",116100,120585,4485,3.86304909560724
+"4153988","Oak Hills CDP, Oregon","median_income",107638,110020,2382,2.21297311358442
+"4148650","Milwaukie city, Oregon","median_income",72102,73351,1249,1.73226817564007
+"4146730","Maywood Park city, Oregon","median_income",112404,114350,1946,1.73125511547632
+"4112050","Cedar Hills CDP, Oregon","median_income",90518,91972,1454,1.60631034711328
+"4109535","Bull Mountain CDP, Oregon","median_income",132666,134449,1783,1.3439766028975
+"4134100","Hillsboro city, Oregon","median_income",90553,91540,987,1.08996941017967
+"4155200","Oregon City city, Oregon","median_income",84577,85193,616,0.72833039715289
+"4105250","Beavercreek CDP, Oregon","median_income",107805,108165,360,0.333936273827745
+"4169800","Stafford CDP, Oregon","median_income",162005,161489,-516,-0.318508688003457
+"4183950","Wood Village city, Oregon","median_income",61658,60122,-1536,-2.49116091991307
+"4150450","Mulino CDP, Oregon","median_income",93951,91333,-2618,-2.78655895094251
+"4137650","Johnson City city, Oregon","median_income",42687,41389,-1298,-3.04073839810715
+"4115550","Cornelius city, Oregon","median_income",75379,72917,-2462,-3.26616166306266
+"4112150","Cedar Mill CDP, Oregon","median_income",135929,131367,-4562,-3.35616387967248
+"4182800","Wilsonville city, Oregon","median_income",81414,78508,-2906,-3.56941066647014
+"4132050","Happy Valley city, Oregon","median_income",137026,131980,-5046,-3.6825128077883
+"4131250","Gresham city, Oregon","median_income",64342,61826,-2516,-3.91035404556899
+"4154325","Oatfield CDP, Oregon","median_income",96338,92221,-4117,-4.27349540160684
+"4105950","Bethany CDP, Oregon","median_income",151037,143548,-7489,-4.95838767984004
+"4167100","Sherwood city, Oregon","median_income",111109,104651,-6458,-5.81231043389824
+"4101650","Aloha CDP, Oregon","median_income",87318,82062,-5256,-6.01937744794888
+"4124250","Fairview city, Oregon","median_income",70711,65604,-5107,-7.22235578622845
+"4163010","Rockcreek CDP, Oregon","median_income",99349,92039,-7310,-7.35789992853476
+"4180025","West Haven-Sylvan CDP, Oregon","median_income",113931,103725,-10206,-8.95805355873292
+"4137400","Jennings Lodge CDP, Oregon","median_income",68516,61986,-6530,-9.53062058497285
+"4153900","Oak Grove CDP, Oregon","median_income",76831,68344,-8487,-11.0463224479702
+"4127825","Garden Home-Whitford CDP, Oregon","median_income",102929,90969,-11960,-11.6196601540868
+"4139150","King City city, Oregon","median_income",63910,55507,-8403,-13.1481771240807
+"4180900","West Slope CDP, Oregon","median_income",90786,77813,-12973,-14.2896481836406
+"4103850","Banks city, Oregon","median_income",106450,81250,-25200,-23.6730859558478
+"4104000","Barlow city, Oregon","median_income",50537,NA,NA,NA
+"4107550","Boring CDP, Oregon","median_income",NA,87202,NA,NA
+"4112850","Cherry Grove CDP, Oregon","median_income",NA,72917,NA,NA
+"4117800","Damascus CDP, Oregon","median_income",NA,101574,NA,NA
+"4117800","Damascus city, Oregon","median_income",106876,NA,NA,NA
+"4119650","Dilley CDP, Oregon","median_income",NA,106318,NA,NA
+"4121215","Dunthorpe CDP, Oregon","median_income",NA,250001,NA,NA
+"4130250","Government Camp CDP, Oregon","median_income",NA,NA,NA,NA
+"4146100","Marlene Village CDP, Oregon","median_income",NA,78140,NA,NA
+"4150236","Mount Hood Villages CDP, Oregon","median_income",NA,79850,NA,NA
+"4155500","Orient CDP, Oregon","median_income",NA,116875,NA,NA
+"4161550","Rhododendron CDP, Oregon","median_income",NA,NA,NA,NA

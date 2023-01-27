@@ -1,0 +1,62 @@
+"GEOID","NAME","variable","year_2011","year_2021","change","pct_change"
+"4162250","Rivergrove city, Oregon","total_pop",249,545,296,118.875502008032
+"4121250","Durham city, Oregon","total_pop",1105,2073,968,87.6018099547511
+"4132050","Happy Valley city, Oregon","total_pop",13170,23442,10272,77.995444191344
+"4153150","North Plains city, Oregon","total_pop",1854,3280,1426,76.9147788565264
+"4123800","Estacada city, Oregon","total_pop",2676,4353,1677,62.6681614349776
+"4139150","King City city, Oregon","total_pop",3070,4992,1922,62.6058631921824
+"4105950","Bethany CDP, Oregon","total_pop",19806,29277,9471,47.8188427749167
+"4182800","Wilsonville city, Oregon","total_pop",18845,25887,7042,37.3680021225789
+"4165250","Sandy city, Oregon","total_pop",9188,12383,3195,34.7736177622987
+"4149450","Molalla city, Oregon","total_pop",7887,10060,2173,27.5516673006213
+"4112150","Cedar Mill CDP, Oregon","total_pop",15110,18987,3877,25.6585043017869
+"4146730","Maywood Park city, Oregon","total_pop",849,1054,205,24.1460541813899
+"4126200","Forest Grove city, Oregon","total_pop",20908,25767,4859,23.2399081691219
+"4180025","West Haven-Sylvan CDP, Oregon","total_pop",6905,8469,1564,22.6502534395366
+"4124250","Fairview city, Oregon","total_pop",8716,10439,1723,19.7682423129876
+"4127825","Garden Home-Whitford CDP, Oregon","total_pop",6119,7237,1118,18.2709593070763
+"4155200","Oregon City city, Oregon","total_pop",31430,37160,5730,18.2309895004772
+"4134100","Hillsboro city, Oregon","total_pop",89946,105909,15963,17.7473150557001
+"4183950","Wood Village city, Oregon","total_pop",3780,4435,655,17.3280423280423
+"4180900","West Slope CDP, Oregon","total_pop",5950,6970,1020,17.1428571428571
+"4110750","Canby city, Oregon","total_pop",15613,18078,2465,15.7881252802152
+"4147800","Metzger CDP, Oregon","total_pop",3705,4282,577,15.5735492577598
+"4167100","Sherwood city, Oregon","total_pop",17636,20281,2645,14.9977319119982
+"4173650","Tigard city, Oregon","total_pop",47759,54750,6991,14.6380786867397
+"4159000","Portland city, Oregon","total_pop",576543,647176,70633,12.251124374071
+"4131250","Gresham city, Oregon","total_pop",103637,114164,10527,10.1575692079084
+"4109535","Bull Mountain CDP, Oregon","total_pop",8666,9545,879,10.1430879298408
+"4115550","Cornelius city, Oregon","total_pop",11706,12893,1187,10.1400990944815
+"4140550","Lake Oswego city, Oregon","total_pop",36704,40390,3686,10.042502179599
+"4105350","Beaverton city, Oregon","total_pop",89160,97466,8306,9.31583669807088
+"4180150","West Linn city, Oregon","total_pop",24917,27173,2256,9.05405947746518
+"4169800","Stafford CDP, Oregon","total_pop",1844,1999,155,8.4056399132321
+"4101650","Aloha CDP, Oregon","total_pop",48761,52704,3943,8.08638050901335
+"4174950","Tualatin city, Oregon","total_pop",25893,27821,1928,7.44602788398409
+"4137400","Jennings Lodge CDP, Oregon","total_pop",7458,7953,495,6.63716814159292
+"4153988","Oak Hills CDP, Oregon","total_pop",11099,11715,616,5.55004955401388
+"4103850","Banks city, Oregon","total_pop",1971,2080,109,5.53018772196854
+"4112050","Cedar Hills CDP, Oregon","total_pop",9024,9511,487,5.39671985815603
+"4174850","Troutdale city, Oregon","total_pop",15674,16353,679,4.33201480158224
+"4129000","Gladstone city, Oregon","total_pop",11542,12017,475,4.11540460925316
+"4148650","Milwaukie city, Oregon","total_pop",20414,21108,694,3.39962770647595
+"4153900","Oak Grove CDP, Oregon","total_pop",17022,17382,360,2.11491011632006
+"4130250","Government Camp CDP, Oregon","total_pop",84,84,0,0
+"4163010","Rockcreek CDP, Oregon","total_pop",9886,9659,-227,-2.29617641108638
+"4160900","Raleigh Hills CDP, Oregon","total_pop",6887,6726,-161,-2.33773776680703
+"4105250","Beavercreek CDP, Oregon","total_pop",4145,4026,-119,-2.87092882991556
+"4154325","Oatfield CDP, Oregon","total_pop",13506,12993,-513,-3.79831186139494
+"4150450","Mulino CDP, Oregon","total_pop",2474,2251,-223,-9.01374292643492
+"4128100","Gaston city, Oregon","total_pop",710,622,-88,-12.3943661971831
+"4104000","Barlow city, Oregon","total_pop",227,184,-43,-18.942731277533
+"4137650","Johnson City city, Oregon","total_pop",693,451,-242,-34.9206349206349
+"4107550","Boring CDP, Oregon","total_pop",NA,1999,NA,NA
+"4112850","Cherry Grove CDP, Oregon","total_pop",NA,545,NA,NA
+"4117800","Damascus CDP, Oregon","total_pop",NA,10878,NA,NA
+"4117800","Damascus city, Oregon","total_pop",10412,NA,NA,NA
+"4119650","Dilley CDP, Oregon","total_pop",NA,240,NA,NA
+"4121215","Dunthorpe CDP, Oregon","total_pop",NA,1762,NA,NA
+"4146100","Marlene Village CDP, Oregon","total_pop",NA,5064,NA,NA
+"4150236","Mount Hood Villages CDP, Oregon","total_pop",NA,4408,NA,NA
+"4155500","Orient CDP, Oregon","total_pop",NA,731,NA,NA
+"4161550","Rhododendron CDP, Oregon","total_pop",NA,173,NA,NA

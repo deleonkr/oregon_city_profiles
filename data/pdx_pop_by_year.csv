@@ -1,0 +1,641 @@
+"year","GEOID","NAME","variable","estimate","moe"
+"2010","4101650","Aloha CDP, Oregon","B01003_001",47574,1407
+"2010","4103850","Banks city, Oregon","B01003_001",2001,279
+"2010","4104000","Barlow city, Oregon","B01003_001",136,87
+"2010","4105250","Beavercreek CDP, Oregon","B01003_001",4443,712
+"2010","4105350","Beaverton city, Oregon","B01003_001",88035,56
+"2010","4105950","Bethany CDP, Oregon","B01003_001",19475,737
+"2010","4109535","Bull Mountain CDP, Oregon","B01003_001",9166,503
+"2010","4110750","Canby city, Oregon","B01003_001",15388,24
+"2010","4112050","Cedar Hills CDP, Oregon","B01003_001",8323,539
+"2010","4112150","Cedar Mill CDP, Oregon","B01003_001",14535,655
+"2010","4115550","Cornelius city, Oregon","B01003_001",11512,40
+"2010","4117800","Damascus city, Oregon","B01003_001",10280,43
+"2010","4121250","Durham city, Oregon","B01003_001",1339,220
+"2010","4123800","Estacada city, Oregon","B01003_001",2670,23
+"2010","4124250","Fairview city, Oregon","B01003_001",8504,29
+"2010","4126200","Forest Grove city, Oregon","B01003_001",20635,28
+"2010","4127825","Garden Home-Whitford CDP, Oregon","B01003_001",6029,513
+"2010","4128100","Gaston city, Oregon","B01003_001",592,150
+"2010","4129000","Gladstone city, Oregon","B01003_001",11531,34
+"2010","4130250","Government Camp CDP, Oregon","B01003_001",56,68
+"2010","4131250","Gresham city, Oregon","B01003_001",101450,102
+"2010","4132050","Happy Valley city, Oregon","B01003_001",12583,51
+"2010","4134100","Hillsboro city, Oregon","B01003_001",88125,58
+"2010","4137400","Jennings Lodge CDP, Oregon","B01003_001",7799,871
+"2010","4137650","Johnson City city, Oregon","B01003_001",774,267
+"2010","4139150","King City city, Oregon","B01003_001",3024,18
+"2010","4140550","Lake Oswego city, Oregon","B01003_001",36586,102
+"2010","4146730","Maywood Park city, Oregon","B01003_001",826,143
+"2010","4147800","Metzger CDP, Oregon","B01003_001",3479,400
+"2010","4148650","Milwaukie city, Oregon","B01003_001",20393,28
+"2010","4149450","Molalla city, Oregon","B01003_001",7695,21
+"2010","4150450","Mulino CDP, Oregon","B01003_001",2183,436
+"2010","4153150","North Plains city, Oregon","B01003_001",1928,289
+"2010","4153900","Oak Grove CDP, Oregon","B01003_001",16931,1186
+"2010","4153988","Oak Hills CDP, Oregon","B01003_001",10884,545
+"2010","4154325","Oatfield CDP, Oregon","B01003_001",13619,993
+"2010","4155200","Oregon City city, Oregon","B01003_001",30983,40
+"2010","4159000","Portland city, Oregon","B01003_001",566686,605
+"2010","4160900","Raleigh Hills CDP, Oregon","B01003_001",6691,675
+"2010","4162250","Rivergrove city, Oregon","B01003_001",230,68
+"2010","4163010","Rockcreek CDP, Oregon","B01003_001",9778,410
+"2010","4165250","Sandy city, Oregon","B01003_001",8860,30
+"2010","4167100","Sherwood city, Oregon","B01003_001",17117,34
+"2010","4169800","Stafford CDP, Oregon","B01003_001",1765,467
+"2010","4173650","Tigard city, Oregon","B01003_001",47244,50
+"2010","4174850","Troutdale city, Oregon","B01003_001",15347,39
+"2010","4174950","Tualatin city, Oregon","B01003_001",25590,36
+"2010","4180025","West Haven-Sylvan CDP, Oregon","B01003_001",7016,541
+"2010","4180150","West Linn city, Oregon","B01003_001",24657,59
+"2010","4180900","West Slope CDP, Oregon","B01003_001",6305,731
+"2010","4182800","Wilsonville city, Oregon","B01003_001",18900,215
+"2010","4183950","Wood Village city, Oregon","B01003_001",3680,37
+"2011","4101650","Aloha CDP, Oregon","B01003_001",48761,1455
+"2011","4103850","Banks city, Oregon","B01003_001",1971,233
+"2011","4104000","Barlow city, Oregon","B01003_001",227,145
+"2011","4105250","Beavercreek CDP, Oregon","B01003_001",4145,550
+"2011","4105350","Beaverton city, Oregon","B01003_001",89160,89
+"2011","4105950","Bethany CDP, Oregon","B01003_001",19806,799
+"2011","4109535","Bull Mountain CDP, Oregon","B01003_001",8666,678
+"2011","4110750","Canby city, Oregon","B01003_001",15613,24
+"2011","4112050","Cedar Hills CDP, Oregon","B01003_001",9024,602
+"2011","4112150","Cedar Mill CDP, Oregon","B01003_001",15110,671
+"2011","4115550","Cornelius city, Oregon","B01003_001",11706,38
+"2011","4117800","Damascus city, Oregon","B01003_001",10412,46
+"2011","4121250","Durham city, Oregon","B01003_001",1105,163
+"2011","4123800","Estacada city, Oregon","B01003_001",2676,38
+"2011","4124250","Fairview city, Oregon","B01003_001",8716,22
+"2011","4126200","Forest Grove city, Oregon","B01003_001",20908,38
+"2011","4127825","Garden Home-Whitford CDP, Oregon","B01003_001",6119,507
+"2011","4128100","Gaston city, Oregon","B01003_001",710,170
+"2011","4129000","Gladstone city, Oregon","B01003_001",11542,26
+"2011","4130250","Government Camp CDP, Oregon","B01003_001",84,77
+"2011","4131250","Gresham city, Oregon","B01003_001",103637,124
+"2011","4132050","Happy Valley city, Oregon","B01003_001",13170,32
+"2011","4134100","Hillsboro city, Oregon","B01003_001",89946,68
+"2011","4137400","Jennings Lodge CDP, Oregon","B01003_001",7458,830
+"2011","4137650","Johnson City city, Oregon","B01003_001",693,211
+"2011","4139150","King City city, Oregon","B01003_001",3070,15
+"2011","4140550","Lake Oswego city, Oregon","B01003_001",36704,70
+"2011","4146730","Maywood Park city, Oregon","B01003_001",849,182
+"2011","4147800","Metzger CDP, Oregon","B01003_001",3705,597
+"2011","4148650","Milwaukie city, Oregon","B01003_001",20414,36
+"2011","4149450","Molalla city, Oregon","B01003_001",7887,22
+"2011","4150450","Mulino CDP, Oregon","B01003_001",2474,457
+"2011","4153150","North Plains city, Oregon","B01003_001",1854,264
+"2011","4153900","Oak Grove CDP, Oregon","B01003_001",17022,1053
+"2011","4153988","Oak Hills CDP, Oregon","B01003_001",11099,394
+"2011","4154325","Oatfield CDP, Oregon","B01003_001",13506,922
+"2011","4155200","Oregon City city, Oregon","B01003_001",31430,29
+"2011","4159000","Portland city, Oregon","B01003_001",576543,473
+"2011","4160900","Raleigh Hills CDP, Oregon","B01003_001",6887,587
+"2011","4162250","Rivergrove city, Oregon","B01003_001",249,51
+"2011","4163010","Rockcreek CDP, Oregon","B01003_001",9886,448
+"2011","4165250","Sandy city, Oregon","B01003_001",9188,18
+"2011","4167100","Sherwood city, Oregon","B01003_001",17636,27
+"2011","4169800","Stafford CDP, Oregon","B01003_001",1844,527
+"2011","4173650","Tigard city, Oregon","B01003_001",47759,52
+"2011","4174850","Troutdale city, Oregon","B01003_001",15674,34
+"2011","4174950","Tualatin city, Oregon","B01003_001",25893,38
+"2011","4180025","West Haven-Sylvan CDP, Oregon","B01003_001",6905,589
+"2011","4180150","West Linn city, Oregon","B01003_001",24917,32
+"2011","4180900","West Slope CDP, Oregon","B01003_001",5950,558
+"2011","4182800","Wilsonville city, Oregon","B01003_001",18845,487
+"2011","4183950","Wood Village city, Oregon","B01003_001",3780,28
+"2012","4101650","Aloha CDP, Oregon","B01003_001",50710,1314
+"2012","4103850","Banks city, Oregon","B01003_001",1786,245
+"2012","4104000","Barlow city, Oregon","B01003_001",302,166
+"2012","4105250","Beavercreek CDP, Oregon","B01003_001",4070,599
+"2012","4105350","Beaverton city, Oregon","B01003_001",90254,86
+"2012","4105950","Bethany CDP, Oregon","B01003_001",20505,819
+"2012","4109535","Bull Mountain CDP, Oregon","B01003_001",8990,473
+"2012","4110750","Canby city, Oregon","B01003_001",15770,25
+"2012","4112050","Cedar Hills CDP, Oregon","B01003_001",9273,571
+"2012","4112150","Cedar Mill CDP, Oregon","B01003_001",15118,641
+"2012","4115550","Cornelius city, Oregon","B01003_001",11867,32
+"2012","4117800","Damascus city, Oregon","B01003_001",10529,24
+"2012","4121250","Durham city, Oregon","B01003_001",1235,203
+"2012","4123800","Estacada city, Oregon","B01003_001",2742,25
+"2012","4124250","Fairview city, Oregon","B01003_001",8884,27
+"2012","4126200","Forest Grove city, Oregon","B01003_001",21245,41
+"2012","4127825","Garden Home-Whitford CDP, Oregon","B01003_001",6490,613
+"2012","4128100","Gaston city, Oregon","B01003_001",713,165
+"2012","4129000","Gladstone city, Oregon","B01003_001",11570,30
+"2012","4130250","Government Camp CDP, Oregon","B01003_001",131,124
+"2012","4131250","Gresham city, Oregon","B01003_001",105612,132
+"2012","4132050","Happy Valley city, Oregon","B01003_001",14050,33
+"2012","4134100","Hillsboro city, Oregon","B01003_001",91998,54
+"2012","4137400","Jennings Lodge CDP, Oregon","B01003_001",7133,826
+"2012","4137650","Johnson City city, Oregon","B01003_001",657,208
+"2012","4139150","King City city, Oregon","B01003_001",3138,14
+"2012","4140550","Lake Oswego city, Oregon","B01003_001",36813,44
+"2012","4146730","Maywood Park city, Oregon","B01003_001",1008,214
+"2012","4147800","Metzger CDP, Oregon","B01003_001",3443,543
+"2012","4148650","Milwaukie city, Oregon","B01003_001",20391,39
+"2012","4149450","Molalla city, Oregon","B01003_001",8039,26
+"2012","4150450","Mulino CDP, Oregon","B01003_001",2472,409
+"2012","4153150","North Plains city, Oregon","B01003_001",2059,296
+"2012","4153900","Oak Grove CDP, Oregon","B01003_001",17262,883
+"2012","4153988","Oak Hills CDP, Oregon","B01003_001",11005,429
+"2012","4154325","Oatfield CDP, Oregon","B01003_001",14594,979
+"2012","4155200","Oregon City city, Oregon","B01003_001",31904,72
+"2012","4159000","Portland city, Oregon","B01003_001",585888,486
+"2012","4160900","Raleigh Hills CDP, Oregon","B01003_001",6861,643
+"2012","4162250","Rivergrove city, Oregon","B01003_001",267,61
+"2012","4163010","Rockcreek CDP, Oregon","B01003_001",9488,358
+"2012","4165250","Sandy city, Oregon","B01003_001",9498,22
+"2012","4167100","Sherwood city, Oregon","B01003_001",18088,36
+"2012","4169800","Stafford CDP, Oregon","B01003_001",2211,603
+"2012","4173650","Tigard city, Oregon","B01003_001",48366,61
+"2012","4174850","Troutdale city, Oregon","B01003_001",15964,37
+"2012","4174950","Tualatin city, Oregon","B01003_001",26106,84
+"2012","4180025","West Haven-Sylvan CDP, Oregon","B01003_001",7016,617
+"2012","4180150","West Linn city, Oregon","B01003_001",25158,38
+"2012","4180900","West Slope CDP, Oregon","B01003_001",6676,634
+"2012","4182800","Wilsonville city, Oregon","B01003_001",19262,203
+"2012","4183950","Wood Village city, Oregon","B01003_001",3870,53
+"2013","4101650","Aloha CDP, Oregon","B01003_001",51462,1417
+"2013","4103850","Banks city, Oregon","B01003_001",1661,225
+"2013","4104000","Barlow city, Oregon","B01003_001",133,71
+"2013","4105250","Beavercreek CDP, Oregon","B01003_001",3951,488
+"2013","4105350","Beaverton city, Oregon","B01003_001",91383,52
+"2013","4105950","Bethany CDP, Oregon","B01003_001",21457,708
+"2013","4109535","Bull Mountain CDP, Oregon","B01003_001",8984,481
+"2013","4110750","Canby city, Oregon","B01003_001",16561,36
+"2013","4112050","Cedar Hills CDP, Oregon","B01003_001",9283,585
+"2013","4112150","Cedar Mill CDP, Oregon","B01003_001",15380,656
+"2013","4115550","Cornelius city, Oregon","B01003_001",11991,37
+"2013","4117800","Damascus city, Oregon","B01003_001",10626,54
+"2013","4121250","Durham city, Oregon","B01003_001",1204,199
+"2013","4123800","Estacada city, Oregon","B01003_001",2803,32
+"2013","4124250","Fairview city, Oregon","B01003_001",9003,31
+"2013","4126200","Forest Grove city, Oregon","B01003_001",21593,29
+"2013","4127825","Garden Home-Whitford CDP, Oregon","B01003_001",6240,532
+"2013","4128100","Gaston city, Oregon","B01003_001",636,173
+"2013","4129000","Gladstone city, Oregon","B01003_001",11602,26
+"2013","4130250","Government Camp CDP, Oregon","B01003_001",139,127
+"2013","4131250","Gresham city, Oregon","B01003_001",107196,96
+"2013","4132050","Happy Valley city, Oregon","B01003_001",14931,38
+"2013","4134100","Hillsboro city, Oregon","B01003_001",93880,69
+"2013","4137400","Jennings Lodge CDP, Oregon","B01003_001",7698,723
+"2013","4137650","Johnson City city, Oregon","B01003_001",512,138
+"2013","4139150","King City city, Oregon","B01003_001",3238,19
+"2013","4140550","Lake Oswego city, Oregon","B01003_001",37037,52
+"2013","4146730","Maywood Park city, Oregon","B01003_001",939,189
+"2013","4147800","Metzger CDP, Oregon","B01003_001",3552,630
+"2013","4148650","Milwaukie city, Oregon","B01003_001",20385,75
+"2013","4149450","Molalla city, Oregon","B01003_001",8152,31
+"2013","4150450","Mulino CDP, Oregon","B01003_001",2175,371
+"2013","4153150","North Plains city, Oregon","B01003_001",2056,283
+"2013","4153900","Oak Grove CDP, Oregon","B01003_001",17142,823
+"2013","4153988","Oak Hills CDP, Oregon","B01003_001",11533,552
+"2013","4154325","Oatfield CDP, Oregon","B01003_001",14189,902
+"2013","4155200","Oregon City city, Oregon","B01003_001",33115,36
+"2013","4159000","Portland city, Oregon","B01003_001",594687,578
+"2013","4160900","Raleigh Hills CDP, Oregon","B01003_001",6452,564
+"2013","4162250","Rivergrove city, Oregon","B01003_001",283,74
+"2013","4163010","Rockcreek CDP, Oregon","B01003_001",9141,513
+"2013","4165250","Sandy city, Oregon","B01003_001",9737,20
+"2013","4167100","Sherwood city, Oregon","B01003_001",18441,37
+"2013","4169800","Stafford CDP, Oregon","B01003_001",1915,515
+"2013","4173650","Tigard city, Oregon","B01003_001",49024,65
+"2013","4174850","Troutdale city, Oregon","B01003_001",16188,42
+"2013","4174950","Tualatin city, Oregon","B01003_001",26383,53
+"2013","4180025","West Haven-Sylvan CDP, Oregon","B01003_001",7688,660
+"2013","4180150","West Linn city, Oregon","B01003_001",25462,65
+"2013","4180900","West Slope CDP, Oregon","B01003_001",6852,604
+"2013","4182800","Wilsonville city, Oregon","B01003_001",19636,192
+"2013","4183950","Wood Village city, Oregon","B01003_001",3899,21
+"2014","4101650","Aloha CDP, Oregon","B01003_001",52902,1381
+"2014","4103850","Banks city, Oregon","B01003_001",1699,214
+"2014","4104000","Barlow city, Oregon","B01003_001",170,104
+"2014","4105250","Beavercreek CDP, Oregon","B01003_001",4129,440
+"2014","4105350","Beaverton city, Oregon","B01003_001",92593,72
+"2014","4105950","Bethany CDP, Oregon","B01003_001",21658,655
+"2014","4109535","Bull Mountain CDP, Oregon","B01003_001",8977,590
+"2014","4110750","Canby city, Oregon","B01003_001",16821,28
+"2014","4112050","Cedar Hills CDP, Oregon","B01003_001",8757,664
+"2014","4112150","Cedar Mill CDP, Oregon","B01003_001",15482,768
+"2014","4115550","Cornelius city, Oregon","B01003_001",12068,67
+"2014","4117800","Damascus city, Oregon","B01003_001",10711,35
+"2014","4121250","Durham city, Oregon","B01003_001",1327,249
+"2014","4123800","Estacada city, Oregon","B01003_001",2860,20
+"2014","4124250","Fairview city, Oregon","B01003_001",9094,38
+"2014","4126200","Forest Grove city, Oregon","B01003_001",22070,48
+"2014","4127825","Garden Home-Whitford CDP, Oregon","B01003_001",6019,574
+"2014","4128100","Gaston city, Oregon","B01003_001",703,192
+"2014","4129000","Gladstone city, Oregon","B01003_001",11668,31
+"2014","4130250","Government Camp CDP, Oregon","B01003_001",81,94
+"2014","4131250","Gresham city, Oregon","B01003_001",108250,72
+"2014","4132050","Happy Valley city, Oregon","B01003_001",15693,51
+"2014","4134100","Hillsboro city, Oregon","B01003_001",95765,49
+"2014","4137400","Jennings Lodge CDP, Oregon","B01003_001",7416,612
+"2014","4137650","Johnson City city, Oregon","B01003_001",573,115
+"2014","4139150","King City city, Oregon","B01003_001",3351,12
+"2014","4140550","Lake Oswego city, Oregon","B01003_001",37310,81
+"2014","4146730","Maywood Park city, Oregon","B01003_001",894,153
+"2014","4147800","Metzger CDP, Oregon","B01003_001",3541,525
+"2014","4148650","Milwaukie city, Oregon","B01003_001",20449,30
+"2014","4149450","Molalla city, Oregon","B01003_001",8247,33
+"2014","4150450","Mulino CDP, Oregon","B01003_001",2314,382
+"2014","4153150","North Plains city, Oregon","B01003_001",1868,253
+"2014","4153900","Oak Grove CDP, Oregon","B01003_001",17202,905
+"2014","4153988","Oak Hills CDP, Oregon","B01003_001",11946,544
+"2014","4154325","Oatfield CDP, Oregon","B01003_001",13618,725
+"2014","4155200","Oregon City city, Oregon","B01003_001",33834,28
+"2014","4159000","Portland city, Oregon","B01003_001",602568,525
+"2014","4160900","Raleigh Hills CDP, Oregon","B01003_001",6197,508
+"2014","4162250","Rivergrove city, Oregon","B01003_001",322,91
+"2014","4163010","Rockcreek CDP, Oregon","B01003_001",9261,475
+"2014","4165250","Sandy city, Oregon","B01003_001",9945,23
+"2014","4167100","Sherwood city, Oregon","B01003_001",18687,38
+"2014","4169800","Stafford CDP, Oregon","B01003_001",2073,403
+"2014","4173650","Tigard city, Oregon","B01003_001",49633,45
+"2014","4174850","Troutdale city, Oregon","B01003_001",16339,32
+"2014","4174950","Tualatin city, Oregon","B01003_001",26604,51
+"2014","4180025","West Haven-Sylvan CDP, Oregon","B01003_001",7861,649
+"2014","4180150","West Linn city, Oregon","B01003_001",25710,59
+"2014","4180900","West Slope CDP, Oregon","B01003_001",7240,615
+"2014","4182800","Wilsonville city, Oregon","B01003_001",20335,252
+"2014","4183950","Wood Village city, Oregon","B01003_001",3946,33
+"2015","4101650","Aloha CDP, Oregon","B01003_001",53879,1397
+"2015","4103850","Banks city, Oregon","B01003_001",1580,190
+"2015","4104000","Barlow city, Oregon","B01003_001",147,93
+"2015","4105250","Beavercreek CDP, Oregon","B01003_001",3945,335
+"2015","4105350","Beaverton city, Oregon","B01003_001",93919,104
+"2015","4105950","Bethany CDP, Oregon","B01003_001",22346,658
+"2015","4109535","Bull Mountain CDP, Oregon","B01003_001",9188,572
+"2015","4110750","Canby city, Oregon","B01003_001",16951,29
+"2015","4112050","Cedar Hills CDP, Oregon","B01003_001",8811,652
+"2015","4112150","Cedar Mill CDP, Oregon","B01003_001",15638,718
+"2015","4115550","Cornelius city, Oregon","B01003_001",12186,22
+"2015","4117800","Damascus city, Oregon","B01003_001",10748,28
+"2015","4121250","Durham city, Oregon","B01003_001",1459,235
+"2015","4123800","Estacada city, Oregon","B01003_001",2968,47
+"2015","4124250","Fairview city, Oregon","B01003_001",9181,23
+"2015","4126200","Forest Grove city, Oregon","B01003_001",22823,41
+"2015","4127825","Garden Home-Whitford CDP, Oregon","B01003_001",6138,515
+"2015","4128100","Gaston city, Oregon","B01003_001",616,192
+"2015","4129000","Gladstone city, Oregon","B01003_001",11741,37
+"2015","4130250","Government Camp CDP, Oregon","B01003_001",120,106
+"2015","4131250","Gresham city, Oregon","B01003_001",109308,119
+"2015","4132050","Happy Valley city, Oregon","B01003_001",16462,43
+"2015","4134100","Hillsboro city, Oregon","B01003_001",97751,62
+"2015","4137400","Jennings Lodge CDP, Oregon","B01003_001",7691,680
+"2015","4137650","Johnson City city, Oregon","B01003_001",573,98
+"2015","4139150","King City city, Oregon","B01003_001",3464,16
+"2015","4140550","Lake Oswego city, Oregon","B01003_001",37628,46
+"2015","4146730","Maywood Park city, Oregon","B01003_001",872,153
+"2015","4147800","Metzger CDP, Oregon","B01003_001",4035,539
+"2015","4148650","Milwaukie city, Oregon","B01003_001",20566,63
+"2015","4149450","Molalla city, Oregon","B01003_001",8726,63
+"2015","4150450","Mulino CDP, Oregon","B01003_001",2661,446
+"2015","4153150","North Plains city, Oregon","B01003_001",1945,299
+"2015","4153900","Oak Grove CDP, Oregon","B01003_001",17149,929
+"2015","4153988","Oak Hills CDP, Oregon","B01003_001",11916,641
+"2015","4154325","Oatfield CDP, Oregon","B01003_001",13852,708
+"2015","4155200","Oregon City city, Oregon","B01003_001",34480,40
+"2015","4159000","Portland city, Oregon","B01003_001",612206,521
+"2015","4160900","Raleigh Hills CDP, Oregon","B01003_001",5751,678
+"2015","4162250","Rivergrove city, Oregon","B01003_001",355,89
+"2015","4163010","Rockcreek CDP, Oregon","B01003_001",9245,572
+"2015","4165250","Sandy city, Oregon","B01003_001",10134,39
+"2015","4167100","Sherwood city, Oregon","B01003_001",18880,42
+"2015","4169800","Stafford CDP, Oregon","B01003_001",1892,427
+"2015","4173650","Tigard city, Oregon","B01003_001",50276,78
+"2015","4174850","Troutdale city, Oregon","B01003_001",16479,36
+"2015","4174950","Tualatin city, Oregon","B01003_001",26806,45
+"2015","4180025","West Haven-Sylvan CDP, Oregon","B01003_001",7991,631
+"2015","4180150","West Linn city, Oregon","B01003_001",25963,35
+"2015","4180900","West Slope CDP, Oregon","B01003_001",7536,712
+"2015","4182800","Wilsonville city, Oregon","B01003_001",20837,301
+"2015","4183950","Wood Village city, Oregon","B01003_001",3971,23
+"2016","4101650","Aloha CDP, Oregon","B01003_001",54908,1511
+"2016","4103850","Banks city, Oregon","B01003_001",1688,214
+"2016","4104000","Barlow city, Oregon","B01003_001",171,79
+"2016","4105250","Beavercreek CDP, Oregon","B01003_001",4034,395
+"2016","4105350","Beaverton city, Oregon","B01003_001",94865,58
+"2016","4105950","Bethany CDP, Oregon","B01003_001",22819,648
+"2016","4109535","Bull Mountain CDP, Oregon","B01003_001",9684,502
+"2016","4110750","Canby city, Oregon","B01003_001",17218,51
+"2016","4112050","Cedar Hills CDP, Oregon","B01003_001",8135,636
+"2016","4112150","Cedar Mill CDP, Oregon","B01003_001",15993,685
+"2016","4115550","Cornelius city, Oregon","B01003_001",12241,29
+"2016","4117800","Damascus city, Oregon","B01003_001",10842,28
+"2016","4121250","Durham city, Oregon","B01003_001",1417,205
+"2016","4123800","Estacada city, Oregon","B01003_001",3051,20
+"2016","4124250","Fairview city, Oregon","B01003_001",9215,34
+"2016","4126200","Forest Grove city, Oregon","B01003_001",23214,36
+"2016","4127825","Garden Home-Whitford CDP, Oregon","B01003_001",6291,438
+"2016","4128100","Gaston city, Oregon","B01003_001",558,159
+"2016","4129000","Gladstone city, Oregon","B01003_001",11850,26
+"2016","4130250","Government Camp CDP, Oregon","B01003_001",121,116
+"2016","4131250","Gresham city, Oregon","B01003_001",110042,67
+"2016","4132050","Happy Valley city, Oregon","B01003_001",17474,71
+"2016","4134100","Hillsboro city, Oregon","B01003_001",100462,66
+"2016","4137400","Jennings Lodge CDP, Oregon","B01003_001",7727,638
+"2016","4137650","Johnson City city, Oregon","B01003_001",547,114
+"2016","4139150","King City city, Oregon","B01003_001",3599,14
+"2016","4140550","Lake Oswego city, Oregon","B01003_001",38065,51
+"2016","4146730","Maywood Park city, Oregon","B01003_001",939,135
+"2016","4147800","Metzger CDP, Oregon","B01003_001",3967,598
+"2016","4148650","Milwaukie city, Oregon","B01003_001",20643,35
+"2016","4149450","Molalla city, Oregon","B01003_001",8867,42
+"2016","4150450","Mulino CDP, Oregon","B01003_001",2797,467
+"2016","4153150","North Plains city, Oregon","B01003_001",2072,272
+"2016","4153900","Oak Grove CDP, Oregon","B01003_001",16848,783
+"2016","4153988","Oak Hills CDP, Oregon","B01003_001",11678,608
+"2016","4154325","Oatfield CDP, Oregon","B01003_001",13592,798
+"2016","4155200","Oregon City city, Oregon","B01003_001",35057,39
+"2016","4159000","Portland city, Oregon","B01003_001",620589,516
+"2016","4160900","Raleigh Hills CDP, Oregon","B01003_001",6046,600
+"2016","4162250","Rivergrove city, Oregon","B01003_001",438,132
+"2016","4163010","Rockcreek CDP, Oregon","B01003_001",9384,538
+"2016","4165250","Sandy city, Oregon","B01003_001",10369,37
+"2016","4167100","Sherwood city, Oregon","B01003_001",18965,64
+"2016","4169800","Stafford CDP, Oregon","B01003_001",1945,431
+"2016","4173650","Tigard city, Oregon","B01003_001",50787,45
+"2016","4174850","Troutdale city, Oregon","B01003_001",16535,33
+"2016","4174950","Tualatin city, Oregon","B01003_001",27024,74
+"2016","4180025","West Haven-Sylvan CDP, Oregon","B01003_001",8131,577
+"2016","4180150","West Linn city, Oregon","B01003_001",26242,29
+"2016","4180900","West Slope CDP, Oregon","B01003_001",7650,653
+"2016","4182800","Wilsonville city, Oregon","B01003_001",21814,204
+"2016","4183950","Wood Village city, Oregon","B01003_001",3996,26
+"2017","4101650","Aloha CDP, Oregon","B01003_001",55205,1276
+"2017","4103850","Banks city, Oregon","B01003_001",1694,259
+"2017","4104000","Barlow city, Oregon","B01003_001",138,64
+"2017","4105250","Beavercreek CDP, Oregon","B01003_001",4257,423
+"2017","4105350","Beaverton city, Oregon","B01003_001",95710,90
+"2017","4105950","Bethany CDP, Oregon","B01003_001",23177,713
+"2017","4109535","Bull Mountain CDP, Oregon","B01003_001",9698,488
+"2017","4110750","Canby city, Oregon","B01003_001",17337,35
+"2017","4112050","Cedar Hills CDP, Oregon","B01003_001",8054,665
+"2017","4112150","Cedar Mill CDP, Oregon","B01003_001",17050,677
+"2017","4115550","Cornelius city, Oregon","B01003_001",12423,47
+"2017","4117800","Damascus city, Oregon","B01003_001",10909,24
+"2017","4121250","Durham city, Oregon","B01003_001",1590,259
+"2017","4123800","Estacada city, Oregon","B01003_001",3155,40
+"2017","4124250","Fairview city, Oregon","B01003_001",9261,39
+"2017","4126200","Forest Grove city, Oregon","B01003_001",23554,35
+"2017","4127825","Garden Home-Whitford CDP, Oregon","B01003_001",6442,505
+"2017","4128100","Gaston city, Oregon","B01003_001",557,175
+"2017","4129000","Gladstone city, Oregon","B01003_001",11936,36
+"2017","4130250","Government Camp CDP, Oregon","B01003_001",85,73
+"2017","4131250","Gresham city, Oregon","B01003_001",110336,61
+"2017","4132050","Happy Valley city, Oregon","B01003_001",18477,53
+"2017","4134100","Hillsboro city, Oregon","B01003_001",102396,46
+"2017","4137400","Jennings Lodge CDP, Oregon","B01003_001",8164,722
+"2017","4137650","Johnson City city, Oregon","B01003_001",508,108
+"2017","4139150","King City city, Oregon","B01003_001",3715,18
+"2017","4140550","Lake Oswego city, Oregon","B01003_001",38212,63
+"2017","4146730","Maywood Park city, Oregon","B01003_001",1019,146
+"2017","4147800","Metzger CDP, Oregon","B01003_001",3876,555
+"2017","4148650","Milwaukie city, Oregon","B01003_001",20627,37
+"2017","4149450","Molalla city, Oregon","B01003_001",8987,29
+"2017","4150450","Mulino CDP, Oregon","B01003_001",2744,489
+"2017","4153150","North Plains city, Oregon","B01003_001",2100,264
+"2017","4153900","Oak Grove CDP, Oregon","B01003_001",16648,879
+"2017","4153988","Oak Hills CDP, Oregon","B01003_001",11779,501
+"2017","4154325","Oatfield CDP, Oregon","B01003_001",13457,991
+"2017","4155200","Oregon City city, Oregon","B01003_001",35483,58
+"2017","4159000","Portland city, Oregon","B01003_001",630331,631
+"2017","4160900","Raleigh Hills CDP, Oregon","B01003_001",5762,589
+"2017","4162250","Rivergrove city, Oregon","B01003_001",481,107
+"2017","4163010","Rockcreek CDP, Oregon","B01003_001",9503,537
+"2017","4165250","Sandy city, Oregon","B01003_001",10581,28
+"2017","4167100","Sherwood city, Oregon","B01003_001",19107,26
+"2017","4169800","Stafford CDP, Oregon","B01003_001",1992,417
+"2017","4173650","Tigard city, Oregon","B01003_001",51355,45
+"2017","4174850","Troutdale city, Oregon","B01003_001",16557,33
+"2017","4174950","Tualatin city, Oregon","B01003_001",27135,44
+"2017","4180025","West Haven-Sylvan CDP, Oregon","B01003_001",8142,625
+"2017","4180150","West Linn city, Oregon","B01003_001",26307,29
+"2017","4180900","West Slope CDP, Oregon","B01003_001",7698,749
+"2017","4182800","Wilsonville city, Oregon","B01003_001",22789,52
+"2017","4183950","Wood Village city, Oregon","B01003_001",4028,17
+"2018","4101650","Aloha CDP, Oregon","B01003_001",55492,1129
+"2018","4103850","Banks city, Oregon","B01003_001",1811,239
+"2018","4104000","Barlow city, Oregon","B01003_001",119,63
+"2018","4105250","Beavercreek CDP, Oregon","B01003_001",4322,470
+"2018","4105350","Beaverton city, Oregon","B01003_001",97012,79
+"2018","4105950","Bethany CDP, Oregon","B01003_001",24396,732
+"2018","4109535","Bull Mountain CDP, Oregon","B01003_001",9591,604
+"2018","4110750","Canby city, Oregon","B01003_001",17527,39
+"2018","4112050","Cedar Hills CDP, Oregon","B01003_001",8480,693
+"2018","4112150","Cedar Mill CDP, Oregon","B01003_001",17897,916
+"2018","4115550","Cornelius city, Oregon","B01003_001",12575,46
+"2018","4117800","Damascus CDP, Oregon","B01003_001",12024,637
+"2018","4121250","Durham city, Oregon","B01003_001",1724,296
+"2018","4123800","Estacada city, Oregon","B01003_001",3270,22
+"2018","4124250","Fairview city, Oregon","B01003_001",9303,43
+"2018","4126200","Forest Grove city, Oregon","B01003_001",23923,33
+"2018","4127825","Garden Home-Whitford CDP, Oregon","B01003_001",6666,467
+"2018","4128100","Gaston city, Oregon","B01003_001",546,182
+"2018","4129000","Gladstone city, Oregon","B01003_001",12045,40
+"2018","4130250","Government Camp CDP, Oregon","B01003_001",166,114
+"2018","4131250","Gresham city, Oregon","B01003_001",110770,91
+"2018","4132050","Happy Valley city, Oregon","B01003_001",19471,41
+"2018","4134100","Hillsboro city, Oregon","B01003_001",104730,47
+"2018","4137400","Jennings Lodge CDP, Oregon","B01003_001",8138,673
+"2018","4137650","Johnson City city, Oregon","B01003_001",500,95
+"2018","4139150","King City city, Oregon","B01003_001",3807,13
+"2018","4140550","Lake Oswego city, Oregon","B01003_001",38705,49
+"2018","4146730","Maywood Park city, Oregon","B01003_001",998,158
+"2018","4147800","Metzger CDP, Oregon","B01003_001",3477,605
+"2018","4148650","Milwaukie city, Oregon","B01003_001",20955,70
+"2018","4149450","Molalla city, Oregon","B01003_001",9082,22
+"2018","4150450","Mulino CDP, Oregon","B01003_001",2413,497
+"2018","4153150","North Plains city, Oregon","B01003_001",2427,222
+"2018","4153900","Oak Grove CDP, Oregon","B01003_001",17183,896
+"2018","4153988","Oak Hills CDP, Oregon","B01003_001",11962,490
+"2018","4154325","Oatfield CDP, Oregon","B01003_001",13531,914
+"2018","4155200","Oregon City city, Oregon","B01003_001",36040,70
+"2018","4159000","Portland city, Oregon","B01003_001",639387,510
+"2018","4160900","Raleigh Hills CDP, Oregon","B01003_001",5892,563
+"2018","4162250","Rivergrove city, Oregon","B01003_001",509,100
+"2018","4163010","Rockcreek CDP, Oregon","B01003_001",9898,581
+"2018","4165250","Sandy city, Oregon","B01003_001",10834,63
+"2018","4167100","Sherwood city, Oregon","B01003_001",19337,30
+"2018","4169800","Stafford CDP, Oregon","B01003_001",1807,446
+"2018","4173650","Tigard city, Oregon","B01003_001",52368,50
+"2018","4174850","Troutdale city, Oregon","B01003_001",16559,45
+"2018","4174950","Tualatin city, Oregon","B01003_001",27338,40
+"2018","4180025","West Haven-Sylvan CDP, Oregon","B01003_001",8434,750
+"2018","4180150","West Linn city, Oregon","B01003_001",26511,33
+"2018","4180900","West Slope CDP, Oregon","B01003_001",7498,736
+"2018","4182800","Wilsonville city, Oregon","B01003_001",23418,58
+"2018","4183950","Wood Village city, Oregon","B01003_001",4036,18
+"2019","4101650","Aloha CDP, Oregon","B01003_001",54287,1578
+"2019","4103850","Banks city, Oregon","B01003_001",1812,238
+"2019","4104000","Barlow city, Oregon","B01003_001",143,61
+"2019","4105250","Beavercreek CDP, Oregon","B01003_001",4075,466
+"2019","4105350","Beaverton city, Oregon","B01003_001",97861,68
+"2019","4105950","Bethany CDP, Oregon","B01003_001",26501,738
+"2019","4109535","Bull Mountain CDP, Oregon","B01003_001",10005,604
+"2019","4110750","Canby city, Oregon","B01003_001",17695,36
+"2019","4112050","Cedar Hills CDP, Oregon","B01003_001",8912,776
+"2019","4112150","Cedar Mill CDP, Oregon","B01003_001",17659,827
+"2019","4115550","Cornelius city, Oregon","B01003_001",12638,31
+"2019","4117800","Damascus CDP, Oregon","B01003_001",11161,668
+"2019","4121250","Durham city, Oregon","B01003_001",1941,318
+"2019","4123800","Estacada city, Oregon","B01003_001",3426,17
+"2019","4124250","Fairview city, Oregon","B01003_001",9363,35
+"2019","4126200","Forest Grove city, Oregon","B01003_001",24457,34
+"2019","4127825","Garden Home-Whitford CDP, Oregon","B01003_001",7006,549
+"2019","4128100","Gaston city, Oregon","B01003_001",510,129
+"2019","4129000","Gladstone city, Oregon","B01003_001",12170,28
+"2019","4130250","Government Camp CDP, Oregon","B01003_001",176,133
+"2019","4131250","Gresham city, Oregon","B01003_001",110494,88
+"2019","4132050","Happy Valley city, Oregon","B01003_001",20971,39
+"2019","4134100","Hillsboro city, Oregon","B01003_001",106543,53
+"2019","4137400","Jennings Lodge CDP, Oregon","B01003_001",7988,645
+"2019","4137650","Johnson City city, Oregon","B01003_001",514,96
+"2019","4139150","King City city, Oregon","B01003_001",4309,30
+"2019","4140550","Lake Oswego city, Oregon","B01003_001",39127,52
+"2019","4146730","Maywood Park city, Oregon","B01003_001",995,189
+"2019","4147800","Metzger CDP, Oregon","B01003_001",3886,514
+"2019","4148650","Milwaukie city, Oregon","B01003_001",21009,36
+"2019","4149450","Molalla city, Oregon","B01003_001",9155,24
+"2019","4150450","Mulino CDP, Oregon","B01003_001",2334,425
+"2019","4153150","North Plains city, Oregon","B01003_001",2942,312
+"2019","4153900","Oak Grove CDP, Oregon","B01003_001",17872,1110
+"2019","4153988","Oak Hills CDP, Oregon","B01003_001",12308,636
+"2019","4154325","Oatfield CDP, Oregon","B01003_001",14060,952
+"2019","4155200","Oregon City city, Oregon","B01003_001",36492,38
+"2019","4159000","Portland city, Oregon","B01003_001",645291,485
+"2019","4160900","Raleigh Hills CDP, Oregon","B01003_001",6146,523
+"2019","4162250","Rivergrove city, Oregon","B01003_001",536,109
+"2019","4163010","Rockcreek CDP, Oregon","B01003_001",9893,538
+"2019","4165250","Sandy city, Oregon","B01003_001",11070,26
+"2019","4167100","Sherwood city, Oregon","B01003_001",19625,33
+"2019","4169800","Stafford CDP, Oregon","B01003_001",1733,439
+"2019","4173650","Tigard city, Oregon","B01003_001",53312,52
+"2019","4174850","Troutdale city, Oregon","B01003_001",16466,44
+"2019","4174950","Tualatin city, Oregon","B01003_001",27527,46
+"2019","4180025","West Haven-Sylvan CDP, Oregon","B01003_001",8888,649
+"2019","4180150","West Linn city, Oregon","B01003_001",26656,31
+"2019","4180900","West Slope CDP, Oregon","B01003_001",6913,660
+"2019","4182800","Wilsonville city, Oregon","B01003_001",24073,38
+"2019","4183950","Wood Village city, Oregon","B01003_001",4057,27
+"2020","4101650","Aloha CDP, Oregon","B01003_001",53724,2256
+"2020","4103850","Banks city, Oregon","B01003_001",1897,351
+"2020","4104000","Barlow city, Oregon","B01003_001",185,131
+"2020","4105250","Beavercreek CDP, Oregon","B01003_001",4105,528
+"2020","4105350","Beaverton city, Oregon","B01003_001",98567,84
+"2020","4105950","Bethany CDP, Oregon","B01003_001",28047,1907
+"2020","4107550","Boring CDP, Oregon","B01003_001",1977,427
+"2020","4109535","Bull Mountain CDP, Oregon","B01003_001",9732,732
+"2020","4110750","Canby city, Oregon","B01003_001",17860,53
+"2020","4112050","Cedar Hills CDP, Oregon","B01003_001",9514,927
+"2020","4112150","Cedar Mill CDP, Oregon","B01003_001",18661,1610
+"2020","4112850","Cherry Grove CDP, Oregon","B01003_001",506,168
+"2020","4115550","Cornelius city, Oregon","B01003_001",12767,44
+"2020","4117800","Damascus CDP, Oregon","B01003_001",10973,1028
+"2020","4119650","Dilley CDP, Oregon","B01003_001",172,106
+"2020","4121215","Dunthorpe CDP, Oregon","B01003_001",1690,322
+"2020","4121250","Durham city, Oregon","B01003_001",1764,326
+"2020","4123800","Estacada city, Oregon","B01003_001",3642,15
+"2020","4124250","Fairview city, Oregon","B01003_001",9382,21
+"2020","4126200","Forest Grove city, Oregon","B01003_001",24847,31
+"2020","4127825","Garden Home-Whitford CDP, Oregon","B01003_001",7295,853
+"2020","4128100","Gaston city, Oregon","B01003_001",526,126
+"2020","4129000","Gladstone city, Oregon","B01003_001",12316,27
+"2020","4130250","Government Camp CDP, Oregon","B01003_001",96,119
+"2020","4131250","Gresham city, Oregon","B01003_001",110456,58
+"2020","4132050","Happy Valley city, Oregon","B01003_001",22049,56
+"2020","4134100","Hillsboro city, Oregon","B01003_001",108026,43
+"2020","4137400","Jennings Lodge CDP, Oregon","B01003_001",8500,1059
+"2020","4137650","Johnson City city, Oregon","B01003_001",539,203
+"2020","4139150","King City city, Oregon","B01003_001",4345,23
+"2020","4140550","Lake Oswego city, Oregon","B01003_001",39476,80
+"2020","4146100","Marlene Village CDP, Oregon","B01003_001",5356,784
+"2020","4146730","Maywood Park city, Oregon","B01003_001",1224,303
+"2020","4147800","Metzger CDP, Oregon","B01003_001",4402,975
+"2020","4148650","Milwaukie city, Oregon","B01003_001",21086,54
+"2020","4149450","Molalla city, Oregon","B01003_001",9224,35
+"2020","4150236","Mount Hood Villages CDP, Oregon","B01003_001",4511,639
+"2020","4150450","Mulino CDP, Oregon","B01003_001",2178,480
+"2020","4153150","North Plains city, Oregon","B01003_001",2706,307
+"2020","4153900","Oak Grove CDP, Oregon","B01003_001",17781,1605
+"2020","4153988","Oak Hills CDP, Oregon","B01003_001",11682,796
+"2020","4154325","Oatfield CDP, Oregon","B01003_001",13588,1173
+"2020","4155200","Oregon City city, Oregon","B01003_001",37057,76
+"2020","4155500","Orient CDP, Oregon","B01003_001",774,504
+"2020","4159000","Portland city, Oregon","B01003_001",650380,631
+"2020","4160900","Raleigh Hills CDP, Oregon","B01003_001",6675,912
+"2020","4161550","Rhododendron CDP, Oregon","B01003_001",299,252
+"2020","4162250","Rivergrove city, Oregon","B01003_001",604,161
+"2020","4163010","Rockcreek CDP, Oregon","B01003_001",9698,974
+"2020","4165250","Sandy city, Oregon","B01003_001",11319,24
+"2020","4167100","Sherwood city, Oregon","B01003_001",19745,35
+"2020","4169800","Stafford CDP, Oregon","B01003_001",1940,469
+"2020","4173650","Tigard city, Oregon","B01003_001",54149,44
+"2020","4174850","Troutdale city, Oregon","B01003_001",16433,35
+"2020","4174950","Tualatin city, Oregon","B01003_001",27601,43
+"2020","4180025","West Haven-Sylvan CDP, Oregon","B01003_001",8505,721
+"2020","4180150","West Linn city, Oregon","B01003_001",26764,33
+"2020","4180900","West Slope CDP, Oregon","B01003_001",6799,647
+"2020","4182800","Wilsonville city, Oregon","B01003_001",24413,373
+"2020","4183950","Wood Village city, Oregon","B01003_001",4069,24
+"2021","4101650","Aloha CDP, Oregon","B01003_001",52704,2084
+"2021","4103850","Banks city, Oregon","B01003_001",2080,326
+"2021","4104000","Barlow city, Oregon","B01003_001",184,148
+"2021","4105250","Beavercreek CDP, Oregon","B01003_001",4026,488
+"2021","4105350","Beaverton city, Oregon","B01003_001",97466,63
+"2021","4105950","Bethany CDP, Oregon","B01003_001",29277,1651
+"2021","4107550","Boring CDP, Oregon","B01003_001",1999,424
+"2021","4109535","Bull Mountain CDP, Oregon","B01003_001",9545,917
+"2021","4110750","Canby city, Oregon","B01003_001",18078,33
+"2021","4112050","Cedar Hills CDP, Oregon","B01003_001",9511,1100
+"2021","4112150","Cedar Mill CDP, Oregon","B01003_001",18987,2122
+"2021","4112850","Cherry Grove CDP, Oregon","B01003_001",545,153
+"2021","4115550","Cornelius city, Oregon","B01003_001",12893,28
+"2021","4117800","Damascus CDP, Oregon","B01003_001",10878,998
+"2021","4119650","Dilley CDP, Oregon","B01003_001",240,136
+"2021","4121215","Dunthorpe CDP, Oregon","B01003_001",1762,356
+"2021","4121250","Durham city, Oregon","B01003_001",2073,332
+"2021","4123800","Estacada city, Oregon","B01003_001",4353,16
+"2021","4124250","Fairview city, Oregon","B01003_001",10439,66
+"2021","4126200","Forest Grove city, Oregon","B01003_001",25767,26
+"2021","4127825","Garden Home-Whitford CDP, Oregon","B01003_001",7237,857
+"2021","4128100","Gaston city, Oregon","B01003_001",622,157
+"2021","4129000","Gladstone city, Oregon","B01003_001",12017,51
+"2021","4130250","Government Camp CDP, Oregon","B01003_001",84,98
+"2021","4131250","Gresham city, Oregon","B01003_001",114164,75
+"2021","4132050","Happy Valley city, Oregon","B01003_001",23442,43
+"2021","4134100","Hillsboro city, Oregon","B01003_001",105909,47
+"2021","4137400","Jennings Lodge CDP, Oregon","B01003_001",7953,903
+"2021","4137650","Johnson City city, Oregon","B01003_001",451,110
+"2021","4139150","King City city, Oregon","B01003_001",4992,34
+"2021","4140550","Lake Oswego city, Oregon","B01003_001",40390,61
+"2021","4146100","Marlene Village CDP, Oregon","B01003_001",5064,690
+"2021","4146730","Maywood Park city, Oregon","B01003_001",1054,250
+"2021","4147800","Metzger CDP, Oregon","B01003_001",4282,816
+"2021","4148650","Milwaukie city, Oregon","B01003_001",21108,39
+"2021","4149450","Molalla city, Oregon","B01003_001",10060,18
+"2021","4150236","Mount Hood Villages CDP, Oregon","B01003_001",4408,603
+"2021","4150450","Mulino CDP, Oregon","B01003_001",2251,436
+"2021","4153150","North Plains city, Oregon","B01003_001",3280,25
+"2021","4153900","Oak Grove CDP, Oregon","B01003_001",17382,1589
+"2021","4153988","Oak Hills CDP, Oregon","B01003_001",11715,985
+"2021","4154325","Oatfield CDP, Oregon","B01003_001",12993,1165
+"2021","4155200","Oregon City city, Oregon","B01003_001",37160,36
+"2021","4155500","Orient CDP, Oregon","B01003_001",731,469
+"2021","4159000","Portland city, Oregon","B01003_001",647176,718
+"2021","4160900","Raleigh Hills CDP, Oregon","B01003_001",6726,972
+"2021","4161550","Rhododendron CDP, Oregon","B01003_001",173,118
+"2021","4162250","Rivergrove city, Oregon","B01003_001",545,126
+"2021","4163010","Rockcreek CDP, Oregon","B01003_001",9659,985
+"2021","4165250","Sandy city, Oregon","B01003_001",12383,38
+"2021","4167100","Sherwood city, Oregon","B01003_001",20281,53
+"2021","4169800","Stafford CDP, Oregon","B01003_001",1999,522
+"2021","4173650","Tigard city, Oregon","B01003_001",54750,68
+"2021","4174850","Troutdale city, Oregon","B01003_001",16353,40
+"2021","4174950","Tualatin city, Oregon","B01003_001",27821,51
+"2021","4180025","West Haven-Sylvan CDP, Oregon","B01003_001",8469,830
+"2021","4180150","West Linn city, Oregon","B01003_001",27173,30
+"2021","4180900","West Slope CDP, Oregon","B01003_001",6970,642
+"2021","4182800","Wilsonville city, Oregon","B01003_001",25887,262
+"2021","4183950","Wood Village city, Oregon","B01003_001",4435,26

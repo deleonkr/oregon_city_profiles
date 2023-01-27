@@ -1,0 +1,541 @@
+﻿GEOID,NAME,variable,female_est,male_est,total_est,summary_est,pct
+4101650,"Aloha CDP, Oregon",no_school,506,514,1020,35725,2.86
+4101650,"Aloha CDP, Oregon",hs_no_diploma,181,458,639,35725,1.79
+4101650,"Aloha CDP, Oregon",hs_grad,4311,4245,8556,35725,23.95
+4101650,"Aloha CDP, Oregon",some_college,2961,2484,5445,35725,15.24
+4101650,"Aloha CDP, Oregon",associates,1983,2174,4157,35725,11.64
+4101650,"Aloha CDP, Oregon",bachelors,4013,3984,7997,35725,22.38
+4101650,"Aloha CDP, Oregon",masters,1213,1193,2406,35725,6.73
+4101650,"Aloha CDP, Oregon",professional,222,86,308,35725,0.86
+4101650,"Aloha CDP, Oregon",doctorate,119,497,616,35725,1.72
+4103850,"Banks city, Oregon",no_school,3,3,6,1273,0.47
+4103850,"Banks city, Oregon",hs_no_diploma,18,6,24,1273,1.89
+4103850,"Banks city, Oregon",hs_grad,134,122,256,1273,20.11
+4103850,"Banks city, Oregon",some_college,107,117,224,1273,17.60
+4103850,"Banks city, Oregon",associates,86,57,143,1273,11.23
+4103850,"Banks city, Oregon",bachelors,106,131,237,1273,18.62
+4103850,"Banks city, Oregon",masters,197,29,226,1273,17.75
+4103850,"Banks city, Oregon",professional,0,0,0,1273,0.00
+4103850,"Banks city, Oregon",doctorate,6,10,16,1273,1.26
+4104000,"Barlow city, Oregon",no_school,0,0,0,161,0.00
+4104000,"Barlow city, Oregon",hs_no_diploma,0,1,1,161,0.62
+4104000,"Barlow city, Oregon",hs_grad,9,13,22,161,13.66
+4104000,"Barlow city, Oregon",some_college,56,5,61,161,37.89
+4104000,"Barlow city, Oregon",associates,3,4,7,161,4.35
+4104000,"Barlow city, Oregon",bachelors,12,3,15,161,9.32
+4104000,"Barlow city, Oregon",masters,0,0,0,161,0.00
+4104000,"Barlow city, Oregon",professional,0,3,3,161,1.86
+4104000,"Barlow city, Oregon",doctorate,2,1,3,161,1.86
+4105250,"Beavercreek CDP, Oregon",no_school,18,22,40,3233,1.24
+4105250,"Beavercreek CDP, Oregon",hs_no_diploma,7,24,31,3233,0.96
+4105250,"Beavercreek CDP, Oregon",hs_grad,302,395,697,3233,21.56
+4105250,"Beavercreek CDP, Oregon",some_college,312,251,563,3233,17.41
+4105250,"Beavercreek CDP, Oregon",associates,207,224,431,3233,13.33
+4105250,"Beavercreek CDP, Oregon",bachelors,371,354,725,3233,22.42
+4105250,"Beavercreek CDP, Oregon",masters,108,71,179,3233,5.54
+4105250,"Beavercreek CDP, Oregon",professional,24,0,24,3233,0.74
+4105250,"Beavercreek CDP, Oregon",doctorate,0,36,36,3233,1.11
+4105350,"Beaverton city, Oregon",no_school,284,619,903,70130,1.29
+4105350,"Beaverton city, Oregon",hs_no_diploma,239,766,1005,70130,1.43
+4105350,"Beaverton city, Oregon",hs_grad,5910,5905,11815,70130,16.85
+4105350,"Beaverton city, Oregon",some_college,5517,5219,10736,70130,15.31
+4105350,"Beaverton city, Oregon",associates,2808,2505,5313,70130,7.58
+4105350,"Beaverton city, Oregon",bachelors,10160,10901,21061,70130,30.03
+4105350,"Beaverton city, Oregon",masters,5339,3632,8971,70130,12.79
+4105350,"Beaverton city, Oregon",professional,867,844,1711,70130,2.44
+4105350,"Beaverton city, Oregon",doctorate,533,712,1245,70130,1.78
+4105950,"Bethany CDP, Oregon",no_school,83,125,208,19122,1.09
+4105950,"Bethany CDP, Oregon",hs_no_diploma,111,21,132,19122,0.69
+4105950,"Bethany CDP, Oregon",hs_grad,924,670,1594,19122,8.34
+4105950,"Bethany CDP, Oregon",some_college,933,820,1753,19122,9.17
+4105950,"Bethany CDP, Oregon",associates,759,329,1088,19122,5.69
+4105950,"Bethany CDP, Oregon",bachelors,3281,3307,6588,19122,34.45
+4105950,"Bethany CDP, Oregon",masters,2258,2460,4718,19122,24.67
+4105950,"Bethany CDP, Oregon",professional,294,288,582,19122,3.04
+4105950,"Bethany CDP, Oregon",doctorate,448,1237,1685,19122,8.81
+4107550,"Boring CDP, Oregon",no_school,0,0,0,1422,0.00
+4107550,"Boring CDP, Oregon",hs_no_diploma,0,7,7,1422,0.49
+4107550,"Boring CDP, Oregon",hs_grad,323,251,574,1422,40.37
+4107550,"Boring CDP, Oregon",some_college,85,159,244,1422,17.16
+4107550,"Boring CDP, Oregon",associates,70,98,168,1422,11.81
+4107550,"Boring CDP, Oregon",bachelors,99,94,193,1422,13.57
+4107550,"Boring CDP, Oregon",masters,30,54,84,1422,5.91
+4107550,"Boring CDP, Oregon",professional,9,7,16,1422,1.13
+4107550,"Boring CDP, Oregon",doctorate,0,0,0,1422,0.00
+4109535,"Bull Mountain CDP, Oregon",no_school,63,4,67,6374,1.05
+4109535,"Bull Mountain CDP, Oregon",hs_no_diploma,22,31,53,6374,0.83
+4109535,"Bull Mountain CDP, Oregon",hs_grad,379,275,654,6374,10.26
+4109535,"Bull Mountain CDP, Oregon",some_college,488,527,1015,6374,15.92
+4109535,"Bull Mountain CDP, Oregon",associates,227,272,499,6374,7.83
+4109535,"Bull Mountain CDP, Oregon",bachelors,1332,1140,2472,6374,38.78
+4109535,"Bull Mountain CDP, Oregon",masters,459,368,827,6374,12.97
+4109535,"Bull Mountain CDP, Oregon",professional,58,131,189,6374,2.97
+4109535,"Bull Mountain CDP, Oregon",doctorate,83,123,206,6374,3.23
+4110750,"Canby city, Oregon",no_school,106,209,315,12652,2.49
+4110750,"Canby city, Oregon",hs_no_diploma,89,54,143,12652,1.13
+4110750,"Canby city, Oregon",hs_grad,1487,1593,3080,12652,24.34
+4110750,"Canby city, Oregon",some_college,1287,1069,2356,12652,18.62
+4110750,"Canby city, Oregon",associates,700,393,1093,12652,8.64
+4110750,"Canby city, Oregon",bachelors,1226,1141,2367,12652,18.71
+4110750,"Canby city, Oregon",masters,514,410,924,12652,7.30
+4110750,"Canby city, Oregon",professional,24,113,137,12652,1.08
+4110750,"Canby city, Oregon",doctorate,37,161,198,12652,1.56
+4112050,"Cedar Hills CDP, Oregon",no_school,17,12,29,6527,0.44
+4112050,"Cedar Hills CDP, Oregon",hs_no_diploma,9,41,50,6527,0.77
+4112050,"Cedar Hills CDP, Oregon",hs_grad,337,305,642,6527,9.84
+4112050,"Cedar Hills CDP, Oregon",some_college,363,623,986,6527,15.11
+4112050,"Cedar Hills CDP, Oregon",associates,197,218,415,6527,6.36
+4112050,"Cedar Hills CDP, Oregon",bachelors,1057,861,1918,6527,29.39
+4112050,"Cedar Hills CDP, Oregon",masters,459,522,981,6527,15.03
+4112050,"Cedar Hills CDP, Oregon",professional,145,207,352,6527,5.39
+4112050,"Cedar Hills CDP, Oregon",doctorate,129,99,228,6527,3.49
+4112150,"Cedar Mill CDP, Oregon",no_school,6,21,27,11934,0.23
+4112150,"Cedar Mill CDP, Oregon",hs_no_diploma,50,29,79,11934,0.66
+4112150,"Cedar Mill CDP, Oregon",hs_grad,665,482,1147,11934,9.61
+4112150,"Cedar Mill CDP, Oregon",some_college,676,670,1346,11934,11.28
+4112150,"Cedar Mill CDP, Oregon",associates,234,217,451,11934,3.78
+4112150,"Cedar Mill CDP, Oregon",bachelors,2338,2422,4760,11934,39.89
+4112150,"Cedar Mill CDP, Oregon",masters,1224,1127,2351,11934,19.70
+4112150,"Cedar Mill CDP, Oregon",professional,275,189,464,11934,3.89
+4112150,"Cedar Mill CDP, Oregon",doctorate,243,358,601,11934,5.04
+4112850,"Cherry Grove CDP, Oregon",no_school,0,2,2,400,0.50
+4112850,"Cherry Grove CDP, Oregon",hs_no_diploma,0,6,6,400,1.50
+4112850,"Cherry Grove CDP, Oregon",hs_grad,73,56,129,400,32.25
+4112850,"Cherry Grove CDP, Oregon",some_college,35,47,82,400,20.50
+4112850,"Cherry Grove CDP, Oregon",associates,26,22,48,400,12.00
+4112850,"Cherry Grove CDP, Oregon",bachelors,15,12,27,400,6.75
+4112850,"Cherry Grove CDP, Oregon",masters,0,0,0,400,0.00
+4112850,"Cherry Grove CDP, Oregon",professional,5,6,11,400,2.75
+4112850,"Cherry Grove CDP, Oregon",doctorate,0,2,2,400,0.50
+4115550,"Cornelius city, Oregon",no_school,267,134,401,8296,4.83
+4115550,"Cornelius city, Oregon",hs_no_diploma,102,225,327,8296,3.94
+4115550,"Cornelius city, Oregon",hs_grad,1005,1130,2135,8296,25.74
+4115550,"Cornelius city, Oregon",some_college,728,728,1456,8296,17.55
+4115550,"Cornelius city, Oregon",associates,403,509,912,8296,10.99
+4115550,"Cornelius city, Oregon",bachelors,654,413,1067,8296,12.86
+4115550,"Cornelius city, Oregon",masters,99,107,206,8296,2.48
+4115550,"Cornelius city, Oregon",professional,6,0,6,8296,0.07
+4115550,"Cornelius city, Oregon",doctorate,40,47,87,8296,1.05
+4117800,"Damascus CDP, Oregon",no_school,8,25,33,7640,0.43
+4117800,"Damascus CDP, Oregon",hs_no_diploma,63,33,96,7640,1.26
+4117800,"Damascus CDP, Oregon",hs_grad,1278,995,2273,7640,29.75
+4117800,"Damascus CDP, Oregon",some_college,655,704,1359,7640,17.79
+4117800,"Damascus CDP, Oregon",associates,321,710,1031,7640,13.49
+4117800,"Damascus CDP, Oregon",bachelors,676,682,1358,7640,17.77
+4117800,"Damascus CDP, Oregon",masters,288,321,609,7640,7.97
+4117800,"Damascus CDP, Oregon",professional,48,80,128,7640,1.68
+4117800,"Damascus CDP, Oregon",doctorate,55,63,118,7640,1.54
+4119650,"Dilley CDP, Oregon",no_school,0,0,0,166,0.00
+4119650,"Dilley CDP, Oregon",hs_no_diploma,0,0,0,166,0.00
+4119650,"Dilley CDP, Oregon",hs_grad,29,33,62,166,37.35
+4119650,"Dilley CDP, Oregon",some_college,16,8,24,166,14.46
+4119650,"Dilley CDP, Oregon",associates,16,6,22,166,13.25
+4119650,"Dilley CDP, Oregon",bachelors,37,0,37,166,22.29
+4119650,"Dilley CDP, Oregon",masters,0,0,0,166,0.00
+4119650,"Dilley CDP, Oregon",professional,0,0,0,166,0.00
+4119650,"Dilley CDP, Oregon",doctorate,0,0,0,166,0.00
+4121215,"Dunthorpe CDP, Oregon",no_school,6,8,14,1249,1.12
+4121215,"Dunthorpe CDP, Oregon",hs_no_diploma,3,3,6,1249,0.48
+4121215,"Dunthorpe CDP, Oregon",hs_grad,4,8,12,1249,0.96
+4121215,"Dunthorpe CDP, Oregon",some_college,113,57,170,1249,13.61
+4121215,"Dunthorpe CDP, Oregon",associates,27,9,36,1249,2.88
+4121215,"Dunthorpe CDP, Oregon",bachelors,238,281,519,1249,41.55
+4121215,"Dunthorpe CDP, Oregon",masters,106,62,168,1249,13.45
+4121215,"Dunthorpe CDP, Oregon",professional,114,139,253,1249,20.26
+4121215,"Dunthorpe CDP, Oregon",doctorate,28,28,56,1249,4.48
+4121250,"Durham city, Oregon",no_school,20,40,60,1385,4.33
+4121250,"Durham city, Oregon",hs_no_diploma,2,27,29,1385,2.09
+4121250,"Durham city, Oregon",hs_grad,101,107,208,1385,15.02
+4121250,"Durham city, Oregon",some_college,109,108,217,1385,15.67
+4121250,"Durham city, Oregon",associates,38,58,96,1385,6.93
+4121250,"Durham city, Oregon",bachelors,181,239,420,1385,30.32
+4121250,"Durham city, Oregon",masters,89,55,144,1385,10.40
+4121250,"Durham city, Oregon",professional,22,22,44,1385,3.18
+4121250,"Durham city, Oregon",doctorate,26,39,65,1385,4.69
+4123800,"Estacada city, Oregon",no_school,41,34,75,2810,2.67
+4123800,"Estacada city, Oregon",hs_no_diploma,20,30,50,2810,1.78
+4123800,"Estacada city, Oregon",hs_grad,549,493,1042,2810,37.08
+4123800,"Estacada city, Oregon",some_college,249,195,444,2810,15.80
+4123800,"Estacada city, Oregon",associates,284,128,412,2810,14.66
+4123800,"Estacada city, Oregon",bachelors,216,172,388,2810,13.81
+4123800,"Estacada city, Oregon",masters,27,0,27,2810,0.96
+4123800,"Estacada city, Oregon",professional,0,47,47,2810,1.67
+4123800,"Estacada city, Oregon",doctorate,0,17,17,2810,0.60
+4124250,"Fairview city, Oregon",no_school,0,0,0,7916,0.00
+4124250,"Fairview city, Oregon",hs_no_diploma,70,122,192,7916,2.43
+4124250,"Fairview city, Oregon",hs_grad,1044,1117,2161,7916,27.30
+4124250,"Fairview city, Oregon",some_college,978,488,1466,7916,18.52
+4124250,"Fairview city, Oregon",associates,406,469,875,7916,11.05
+4124250,"Fairview city, Oregon",bachelors,470,576,1046,7916,13.21
+4124250,"Fairview city, Oregon",masters,310,131,441,7916,5.57
+4124250,"Fairview city, Oregon",professional,52,39,91,7916,1.15
+4124250,"Fairview city, Oregon",doctorate,11,68,79,7916,1.00
+4126200,"Forest Grove city, Oregon",no_school,260,158,418,16345,2.56
+4126200,"Forest Grove city, Oregon",hs_no_diploma,146,236,382,16345,2.34
+4126200,"Forest Grove city, Oregon",hs_grad,2044,1617,3661,16345,22.40
+4126200,"Forest Grove city, Oregon",some_college,1345,1142,2487,16345,15.22
+4126200,"Forest Grove city, Oregon",associates,536,584,1120,16345,6.85
+4126200,"Forest Grove city, Oregon",bachelors,1707,1836,3543,16345,21.68
+4126200,"Forest Grove city, Oregon",masters,717,712,1429,16345,8.74
+4126200,"Forest Grove city, Oregon",professional,87,122,209,16345,1.28
+4126200,"Forest Grove city, Oregon",doctorate,70,166,236,16345,1.44
+4127825,"Garden Home-Whitford CDP, Oregon",no_school,0,0,0,5705,0.00
+4127825,"Garden Home-Whitford CDP, Oregon",hs_no_diploma,10,63,73,5705,1.28
+4127825,"Garden Home-Whitford CDP, Oregon",hs_grad,282,262,544,5705,9.54
+4127825,"Garden Home-Whitford CDP, Oregon",some_college,208,301,509,5705,8.92
+4127825,"Garden Home-Whitford CDP, Oregon",associates,142,212,354,5705,6.21
+4127825,"Garden Home-Whitford CDP, Oregon",bachelors,1403,1060,2463,5705,43.17
+4127825,"Garden Home-Whitford CDP, Oregon",masters,454,358,812,5705,14.23
+4127825,"Garden Home-Whitford CDP, Oregon",professional,178,135,313,5705,5.49
+4127825,"Garden Home-Whitford CDP, Oregon",doctorate,162,108,270,5705,4.73
+4128100,"Gaston city, Oregon",no_school,0,2,2,447,0.45
+4128100,"Gaston city, Oregon",hs_no_diploma,0,9,9,447,2.01
+4128100,"Gaston city, Oregon",hs_grad,103,124,227,447,50.78
+4128100,"Gaston city, Oregon",some_college,19,54,73,447,16.33
+4128100,"Gaston city, Oregon",associates,9,10,19,447,4.25
+4128100,"Gaston city, Oregon",bachelors,12,10,22,447,4.92
+4128100,"Gaston city, Oregon",masters,3,5,8,447,1.79
+4128100,"Gaston city, Oregon",professional,2,0,2,447,0.45
+4128100,"Gaston city, Oregon",doctorate,0,0,0,447,0.00
+4129000,"Gladstone city, Oregon",no_school,114,23,137,8761,1.56
+4129000,"Gladstone city, Oregon",hs_no_diploma,49,153,202,8761,2.31
+4129000,"Gladstone city, Oregon",hs_grad,1331,974,2305,8761,26.31
+4129000,"Gladstone city, Oregon",some_college,1067,697,1764,8761,20.13
+4129000,"Gladstone city, Oregon",associates,408,376,784,8761,8.95
+4129000,"Gladstone city, Oregon",bachelors,956,866,1822,8761,20.80
+4129000,"Gladstone city, Oregon",masters,252,141,393,8761,4.49
+4129000,"Gladstone city, Oregon",professional,16,44,60,8761,0.68
+4129000,"Gladstone city, Oregon",doctorate,0,8,8,8761,0.09
+4130250,"Government Camp CDP, Oregon",no_school,0,0,0,84,0.00
+4130250,"Government Camp CDP, Oregon",hs_no_diploma,0,0,0,84,0.00
+4130250,"Government Camp CDP, Oregon",hs_grad,0,24,24,84,28.57
+4130250,"Government Camp CDP, Oregon",some_college,28,0,28,84,33.33
+4130250,"Government Camp CDP, Oregon",associates,5,0,5,84,5.95
+4130250,"Government Camp CDP, Oregon",bachelors,0,0,0,84,0.00
+4130250,"Government Camp CDP, Oregon",masters,0,0,0,84,0.00
+4130250,"Government Camp CDP, Oregon",professional,0,27,27,84,32.14
+4130250,"Government Camp CDP, Oregon",doctorate,0,0,0,84,0.00
+4131250,"Gresham city, Oregon",no_school,773,600,1373,76836,1.79
+4131250,"Gresham city, Oregon",hs_no_diploma,915,977,1892,76836,2.46
+4131250,"Gresham city, Oregon",hs_grad,10156,10659,20815,76836,27.09
+4131250,"Gresham city, Oregon",some_college,6799,7130,13929,76836,18.13
+4131250,"Gresham city, Oregon",associates,4149,3712,7861,76836,10.23
+4131250,"Gresham city, Oregon",bachelors,6130,5744,11874,76836,15.45
+4131250,"Gresham city, Oregon",masters,2918,1758,4676,76836,6.09
+4131250,"Gresham city, Oregon",professional,362,508,870,76836,1.13
+4131250,"Gresham city, Oregon",doctorate,288,215,503,76836,0.65
+4132050,"Happy Valley city, Oregon",no_school,116,41,157,15112,1.04
+4132050,"Happy Valley city, Oregon",hs_no_diploma,86,188,274,15112,1.81
+4132050,"Happy Valley city, Oregon",hs_grad,1316,859,2175,15112,14.39
+4132050,"Happy Valley city, Oregon",some_college,1253,1024,2277,15112,15.07
+4132050,"Happy Valley city, Oregon",associates,770,883,1653,15112,10.94
+4132050,"Happy Valley city, Oregon",bachelors,2496,2039,4535,15112,30.01
+4132050,"Happy Valley city, Oregon",masters,856,1011,1867,15112,12.35
+4132050,"Happy Valley city, Oregon",professional,148,621,769,15112,5.09
+4132050,"Happy Valley city, Oregon",doctorate,185,201,386,15112,2.55
+4134100,"Hillsboro city, Oregon",no_school,788,512,1300,72762,1.79
+4134100,"Hillsboro city, Oregon",hs_no_diploma,553,801,1354,72762,1.86
+4134100,"Hillsboro city, Oregon",hs_grad,6334,6941,13275,72762,18.24
+4134100,"Hillsboro city, Oregon",some_college,5291,4490,9781,72762,13.44
+4134100,"Hillsboro city, Oregon",associates,3531,2863,6394,72762,8.79
+4134100,"Hillsboro city, Oregon",bachelors,8768,9194,17962,72762,24.69
+4134100,"Hillsboro city, Oregon",masters,4162,4593,8755,72762,12.03
+4134100,"Hillsboro city, Oregon",professional,482,527,1009,72762,1.39
+4134100,"Hillsboro city, Oregon",doctorate,955,2366,3321,72762,4.56
+4137400,"Jennings Lodge CDP, Oregon",no_school,45,35,80,5984,1.34
+4137400,"Jennings Lodge CDP, Oregon",hs_no_diploma,60,35,95,5984,1.59
+4137400,"Jennings Lodge CDP, Oregon",hs_grad,905,548,1453,5984,24.28
+4137400,"Jennings Lodge CDP, Oregon",some_college,476,504,980,5984,16.38
+4137400,"Jennings Lodge CDP, Oregon",associates,183,443,626,5984,10.46
+4137400,"Jennings Lodge CDP, Oregon",bachelors,828,373,1201,5984,20.07
+4137400,"Jennings Lodge CDP, Oregon",masters,266,85,351,5984,5.87
+4137400,"Jennings Lodge CDP, Oregon",professional,81,122,203,5984,3.39
+4137400,"Jennings Lodge CDP, Oregon",doctorate,42,54,96,5984,1.60
+4137650,"Johnson City city, Oregon",no_school,2,0,2,369,0.54
+4137650,"Johnson City city, Oregon",hs_no_diploma,14,16,30,369,8.13
+4137650,"Johnson City city, Oregon",hs_grad,72,57,129,369,34.96
+4137650,"Johnson City city, Oregon",some_college,29,33,62,369,16.80
+4137650,"Johnson City city, Oregon",associates,36,6,42,369,11.38
+4137650,"Johnson City city, Oregon",bachelors,21,12,33,369,8.94
+4137650,"Johnson City city, Oregon",masters,5,7,12,369,3.25
+4137650,"Johnson City city, Oregon",professional,0,0,0,369,0.00
+4137650,"Johnson City city, Oregon",doctorate,0,0,0,369,0.00
+4139150,"King City city, Oregon",no_school,0,0,0,4261,0.00
+4139150,"King City city, Oregon",hs_no_diploma,17,0,17,4261,0.40
+4139150,"King City city, Oregon",hs_grad,675,278,953,4261,22.37
+4139150,"King City city, Oregon",some_college,451,139,590,4261,13.85
+4139150,"King City city, Oregon",associates,316,166,482,4261,11.31
+4139150,"King City city, Oregon",bachelors,560,483,1043,4261,24.48
+4139150,"King City city, Oregon",masters,176,270,446,4261,10.47
+4139150,"King City city, Oregon",professional,43,59,102,4261,2.39
+4139150,"King City city, Oregon",doctorate,0,28,28,4261,0.66
+4140550,"Lake Oswego city, Oregon",no_school,45,44,89,29355,0.30
+4140550,"Lake Oswego city, Oregon",hs_no_diploma,125,34,159,29355,0.54
+4140550,"Lake Oswego city, Oregon",hs_grad,902,940,1842,29355,6.27
+4140550,"Lake Oswego city, Oregon",some_college,1691,1211,2902,29355,9.89
+4140550,"Lake Oswego city, Oregon",associates,952,747,1699,29355,5.79
+4140550,"Lake Oswego city, Oregon",bachelors,5951,5697,11648,29355,39.68
+4140550,"Lake Oswego city, Oregon",masters,3479,2594,6073,29355,20.69
+4140550,"Lake Oswego city, Oregon",professional,746,1434,2180,29355,7.43
+4140550,"Lake Oswego city, Oregon",doctorate,621,836,1457,29355,4.96
+4146100,"Marlene Village CDP, Oregon",no_school,22,0,22,3685,0.60
+4146100,"Marlene Village CDP, Oregon",hs_no_diploma,0,17,17,3685,0.46
+4146100,"Marlene Village CDP, Oregon",hs_grad,417,284,701,3685,19.02
+4146100,"Marlene Village CDP, Oregon",some_college,67,239,306,3685,8.30
+4146100,"Marlene Village CDP, Oregon",associates,195,117,312,3685,8.47
+4146100,"Marlene Village CDP, Oregon",bachelors,511,577,1088,3685,29.53
+4146100,"Marlene Village CDP, Oregon",masters,301,173,474,3685,12.86
+4146100,"Marlene Village CDP, Oregon",professional,15,28,43,3685,1.17
+4146100,"Marlene Village CDP, Oregon",doctorate,38,61,99,3685,2.69
+4146730,"Maywood Park city, Oregon",no_school,0,0,0,818,0.00
+4146730,"Maywood Park city, Oregon",hs_no_diploma,0,3,3,818,0.37
+4146730,"Maywood Park city, Oregon",hs_grad,86,70,156,818,19.07
+4146730,"Maywood Park city, Oregon",some_college,48,77,125,818,15.28
+4146730,"Maywood Park city, Oregon",associates,73,51,124,818,15.16
+4146730,"Maywood Park city, Oregon",bachelors,124,82,206,818,25.18
+4146730,"Maywood Park city, Oregon",masters,46,16,62,818,7.58
+4146730,"Maywood Park city, Oregon",professional,11,25,36,818,4.40
+4146730,"Maywood Park city, Oregon",doctorate,6,8,14,818,1.71
+4147800,"Metzger CDP, Oregon",no_school,49,0,49,2971,1.65
+4147800,"Metzger CDP, Oregon",hs_no_diploma,91,18,109,2971,3.67
+4147800,"Metzger CDP, Oregon",hs_grad,289,408,697,2971,23.46
+4147800,"Metzger CDP, Oregon",some_college,145,151,296,2971,9.96
+4147800,"Metzger CDP, Oregon",associates,11,189,200,2971,6.73
+4147800,"Metzger CDP, Oregon",bachelors,329,370,699,2971,23.53
+4147800,"Metzger CDP, Oregon",masters,279,150,429,2971,14.44
+4147800,"Metzger CDP, Oregon",professional,6,17,23,2971,0.77
+4147800,"Metzger CDP, Oregon",doctorate,30,37,67,2971,2.26
+4148650,"Milwaukie city, Oregon",no_school,61,59,120,15565,0.77
+4148650,"Milwaukie city, Oregon",hs_no_diploma,139,74,213,15565,1.37
+4148650,"Milwaukie city, Oregon",hs_grad,1533,1813,3346,15565,21.50
+4148650,"Milwaukie city, Oregon",some_college,1270,1543,2813,15565,18.07
+4148650,"Milwaukie city, Oregon",associates,792,613,1405,15565,9.03
+4148650,"Milwaukie city, Oregon",bachelors,2011,2018,4029,15565,25.88
+4148650,"Milwaukie city, Oregon",masters,900,514,1414,15565,9.08
+4148650,"Milwaukie city, Oregon",professional,224,78,302,15565,1.94
+4148650,"Milwaukie city, Oregon",doctorate,193,89,282,15565,1.81
+4149450,"Molalla city, Oregon",no_school,17,43,60,6692,0.90
+4149450,"Molalla city, Oregon",hs_no_diploma,38,70,108,6692,1.61
+4149450,"Molalla city, Oregon",hs_grad,1080,875,1955,6692,29.21
+4149450,"Molalla city, Oregon",some_college,751,799,1550,6692,23.16
+4149450,"Molalla city, Oregon",associates,429,443,872,6692,13.03
+4149450,"Molalla city, Oregon",bachelors,514,311,825,6692,12.33
+4149450,"Molalla city, Oregon",masters,195,44,239,6692,3.57
+4149450,"Molalla city, Oregon",professional,0,0,0,6692,0.00
+4149450,"Molalla city, Oregon",doctorate,15,0,15,6692,0.22
+4150236,"Mount Hood Villages CDP, Oregon",no_school,0,22,22,3347,0.66
+4150236,"Mount Hood Villages CDP, Oregon",hs_no_diploma,0,0,0,3347,0.00
+4150236,"Mount Hood Villages CDP, Oregon",hs_grad,372,398,770,3347,23.01
+4150236,"Mount Hood Villages CDP, Oregon",some_college,403,504,907,3347,27.10
+4150236,"Mount Hood Villages CDP, Oregon",associates,125,244,369,3347,11.02
+4150236,"Mount Hood Villages CDP, Oregon",bachelors,333,325,658,3347,19.66
+4150236,"Mount Hood Villages CDP, Oregon",masters,210,160,370,3347,11.05
+4150236,"Mount Hood Villages CDP, Oregon",professional,9,31,40,3347,1.20
+4150236,"Mount Hood Villages CDP, Oregon",doctorate,0,10,10,3347,0.30
+4150450,"Mulino CDP, Oregon",no_school,10,0,10,1713,0.58
+4150450,"Mulino CDP, Oregon",hs_no_diploma,19,8,27,1713,1.58
+4150450,"Mulino CDP, Oregon",hs_grad,300,204,504,1713,29.42
+4150450,"Mulino CDP, Oregon",some_college,123,108,231,1713,13.49
+4150450,"Mulino CDP, Oregon",associates,53,184,237,1713,13.84
+4150450,"Mulino CDP, Oregon",bachelors,185,110,295,1713,17.22
+4150450,"Mulino CDP, Oregon",masters,30,60,90,1713,5.25
+4150450,"Mulino CDP, Oregon",professional,24,7,31,1713,1.81
+4150450,"Mulino CDP, Oregon",doctorate,17,30,47,1713,2.74
+4153150,"North Plains city, Oregon",no_school,0,8,8,2237,0.36
+4153150,"North Plains city, Oregon",hs_no_diploma,0,20,20,2237,0.89
+4153150,"North Plains city, Oregon",hs_grad,233,224,457,2237,20.43
+4153150,"North Plains city, Oregon",some_college,212,234,446,2237,19.94
+4153150,"North Plains city, Oregon",associates,136,104,240,2237,10.73
+4153150,"North Plains city, Oregon",bachelors,254,318,572,2237,25.57
+4153150,"North Plains city, Oregon",masters,152,127,279,2237,12.47
+4153150,"North Plains city, Oregon",professional,8,6,14,2237,0.63
+4153150,"North Plains city, Oregon",doctorate,23,28,51,2237,2.28
+4153900,"Oak Grove CDP, Oregon",no_school,3,85,88,12978,0.68
+4153900,"Oak Grove CDP, Oregon",hs_no_diploma,71,91,162,12978,1.25
+4153900,"Oak Grove CDP, Oregon",hs_grad,1538,1703,3241,12978,24.97
+4153900,"Oak Grove CDP, Oregon",some_college,1176,846,2022,12978,15.58
+4153900,"Oak Grove CDP, Oregon",associates,611,744,1355,12978,10.44
+4153900,"Oak Grove CDP, Oregon",bachelors,1165,1377,2542,12978,19.59
+4153900,"Oak Grove CDP, Oregon",masters,727,530,1257,12978,9.69
+4153900,"Oak Grove CDP, Oregon",professional,74,62,136,12978,1.05
+4153900,"Oak Grove CDP, Oregon",doctorate,90,72,162,12978,1.25
+4153988,"Oak Hills CDP, Oregon",no_school,16,11,27,7265,0.37
+4153988,"Oak Hills CDP, Oregon",hs_no_diploma,0,24,24,7265,0.33
+4153988,"Oak Hills CDP, Oregon",hs_grad,382,293,675,7265,9.29
+4153988,"Oak Hills CDP, Oregon",some_college,490,369,859,7265,11.82
+4153988,"Oak Hills CDP, Oregon",associates,414,339,753,7265,10.36
+4153988,"Oak Hills CDP, Oregon",bachelors,1288,1426,2714,7265,37.36
+4153988,"Oak Hills CDP, Oregon",masters,541,483,1024,7265,14.09
+4153988,"Oak Hills CDP, Oregon",professional,146,230,376,7265,5.18
+4153988,"Oak Hills CDP, Oregon",doctorate,59,127,186,7265,2.56
+4154325,"Oatfield CDP, Oregon",no_school,0,0,0,9688,0.00
+4154325,"Oatfield CDP, Oregon",hs_no_diploma,82,120,202,9688,2.09
+4154325,"Oatfield CDP, Oregon",hs_grad,1153,1079,2232,9688,23.04
+4154325,"Oatfield CDP, Oregon",some_college,1172,872,2044,9688,21.10
+4154325,"Oatfield CDP, Oregon",associates,462,410,872,9688,9.00
+4154325,"Oatfield CDP, Oregon",bachelors,1168,1119,2287,9688,23.61
+4154325,"Oatfield CDP, Oregon",masters,529,377,906,9688,9.35
+4154325,"Oatfield CDP, Oregon",professional,39,112,151,9688,1.56
+4154325,"Oatfield CDP, Oregon",doctorate,88,55,143,9688,1.48
+4155200,"Oregon City city, Oregon",no_school,46,31,77,25733,0.30
+4155200,"Oregon City city, Oregon",hs_no_diploma,171,119,290,25733,1.13
+4155200,"Oregon City city, Oregon",hs_grad,3208,3667,6875,25733,26.72
+4155200,"Oregon City city, Oregon",some_college,2079,2272,4351,25733,16.91
+4155200,"Oregon City city, Oregon",associates,1399,1266,2665,25733,10.36
+4155200,"Oregon City city, Oregon",bachelors,3266,2696,5962,25733,23.17
+4155200,"Oregon City city, Oregon",masters,776,599,1375,25733,5.34
+4155200,"Oregon City city, Oregon",professional,88,195,283,25733,1.10
+4155200,"Oregon City city, Oregon",doctorate,124,149,273,25733,1.06
+4155500,"Orient CDP, Oregon",no_school,0,0,0,407,0.00
+4155500,"Orient CDP, Oregon",hs_no_diploma,13,0,13,407,3.19
+4155500,"Orient CDP, Oregon",hs_grad,47,77,124,407,30.47
+4155500,"Orient CDP, Oregon",some_college,0,0,0,407,0.00
+4155500,"Orient CDP, Oregon",associates,42,0,42,407,10.32
+4155500,"Orient CDP, Oregon",bachelors,56,44,100,407,24.57
+4155500,"Orient CDP, Oregon",masters,0,0,0,407,0.00
+4155500,"Orient CDP, Oregon",professional,0,0,0,407,0.00
+4155500,"Orient CDP, Oregon",doctorate,0,0,0,407,0.00
+4159000,"Portland city, Oregon",no_school,3628,2904,6532,486100,1.34
+4159000,"Portland city, Oregon",hs_no_diploma,3247,3636,6883,486100,1.42
+4159000,"Portland city, Oregon",hs_grad,33248,40122,73370,486100,15.09
+4159000,"Portland city, Oregon",some_college,32701,36106,68807,486100,14.15
+4159000,"Portland city, Oregon",associates,16920,16473,33393,486100,6.87
+4159000,"Portland city, Oregon",bachelors,79304,72436,151740,486100,31.22
+4159000,"Portland city, Oregon",masters,39035,28745,67780,486100,13.94
+4159000,"Portland city, Oregon",professional,9953,11148,21101,486100,4.34
+4159000,"Portland city, Oregon",doctorate,5888,5896,11784,486100,2.42
+4160900,"Raleigh Hills CDP, Oregon",no_school,0,0,0,5116,0.00
+4160900,"Raleigh Hills CDP, Oregon",hs_no_diploma,9,38,47,5116,0.92
+4160900,"Raleigh Hills CDP, Oregon",hs_grad,267,156,423,5116,8.27
+4160900,"Raleigh Hills CDP, Oregon",some_college,526,339,865,5116,16.91
+4160900,"Raleigh Hills CDP, Oregon",associates,170,119,289,5116,5.65
+4160900,"Raleigh Hills CDP, Oregon",bachelors,884,1162,2046,5116,39.99
+4160900,"Raleigh Hills CDP, Oregon",masters,403,243,646,5116,12.63
+4160900,"Raleigh Hills CDP, Oregon",professional,86,116,202,5116,3.95
+4160900,"Raleigh Hills CDP, Oregon",doctorate,104,41,145,5116,2.83
+4161550,"Rhododendron CDP, Oregon",no_school,0,0,0,173,0.00
+4161550,"Rhododendron CDP, Oregon",hs_no_diploma,0,0,0,173,0.00
+4161550,"Rhododendron CDP, Oregon",hs_grad,30,38,68,173,39.31
+4161550,"Rhododendron CDP, Oregon",some_college,19,0,19,173,10.98
+4161550,"Rhododendron CDP, Oregon",associates,0,23,23,173,13.29
+4161550,"Rhododendron CDP, Oregon",bachelors,43,0,43,173,24.86
+4161550,"Rhododendron CDP, Oregon",masters,0,0,0,173,0.00
+4161550,"Rhododendron CDP, Oregon",professional,0,0,0,173,0.00
+4161550,"Rhododendron CDP, Oregon",doctorate,0,0,0,173,0.00
+4162250,"Rivergrove city, Oregon",no_school,0,0,0,390,0.00
+4162250,"Rivergrove city, Oregon",hs_no_diploma,2,0,2,390,0.51
+4162250,"Rivergrove city, Oregon",hs_grad,22,14,36,390,9.23
+4162250,"Rivergrove city, Oregon",some_college,16,35,51,390,13.08
+4162250,"Rivergrove city, Oregon",associates,16,2,18,390,4.62
+4162250,"Rivergrove city, Oregon",bachelors,65,64,129,390,33.08
+4162250,"Rivergrove city, Oregon",masters,60,27,87,390,22.31
+4162250,"Rivergrove city, Oregon",professional,14,11,25,390,6.41
+4162250,"Rivergrove city, Oregon",doctorate,7,11,18,390,4.62
+4163010,"Rockcreek CDP, Oregon",no_school,19,0,19,6650,0.29
+4163010,"Rockcreek CDP, Oregon",hs_no_diploma,17,46,63,6650,0.95
+4163010,"Rockcreek CDP, Oregon",hs_grad,421,652,1073,6650,16.14
+4163010,"Rockcreek CDP, Oregon",some_college,757,411,1168,6650,17.56
+4163010,"Rockcreek CDP, Oregon",associates,347,326,673,6650,10.12
+4163010,"Rockcreek CDP, Oregon",bachelors,1009,977,1986,6650,29.86
+4163010,"Rockcreek CDP, Oregon",masters,507,440,947,6650,14.24
+4163010,"Rockcreek CDP, Oregon",professional,35,32,67,6650,1.01
+4163010,"Rockcreek CDP, Oregon",doctorate,98,123,221,6650,3.32
+4165250,"Sandy city, Oregon",no_school,27,32,59,8044,0.73
+4165250,"Sandy city, Oregon",hs_no_diploma,46,66,112,8044,1.39
+4165250,"Sandy city, Oregon",hs_grad,972,1082,2054,8044,25.53
+4165250,"Sandy city, Oregon",some_college,735,1011,1746,8044,21.71
+4165250,"Sandy city, Oregon",associates,716,400,1116,8044,13.87
+4165250,"Sandy city, Oregon",bachelors,830,487,1317,8044,16.37
+4165250,"Sandy city, Oregon",masters,177,223,400,8044,4.97
+4165250,"Sandy city, Oregon",professional,22,18,40,8044,0.50
+4165250,"Sandy city, Oregon",doctorate,26,48,74,8044,0.92
+4167100,"Sherwood city, Oregon",no_school,21,53,74,12741,0.58
+4167100,"Sherwood city, Oregon",hs_no_diploma,110,48,158,12741,1.24
+4167100,"Sherwood city, Oregon",hs_grad,1010,831,1841,12741,14.45
+4167100,"Sherwood city, Oregon",some_college,1126,1032,2158,12741,16.94
+4167100,"Sherwood city, Oregon",associates,564,501,1065,12741,8.36
+4167100,"Sherwood city, Oregon",bachelors,1966,1938,3904,12741,30.64
+4167100,"Sherwood city, Oregon",masters,786,853,1639,12741,12.86
+4167100,"Sherwood city, Oregon",professional,181,233,414,12741,3.25
+4167100,"Sherwood city, Oregon",doctorate,93,119,212,12741,1.66
+4169800,"Stafford CDP, Oregon",no_school,0,0,0,1389,0.00
+4169800,"Stafford CDP, Oregon",hs_no_diploma,0,0,0,1389,0.00
+4169800,"Stafford CDP, Oregon",hs_grad,58,79,137,1389,9.86
+4169800,"Stafford CDP, Oregon",some_college,66,100,166,1389,11.95
+4169800,"Stafford CDP, Oregon",associates,22,0,22,1389,1.58
+4169800,"Stafford CDP, Oregon",bachelors,273,343,616,1389,44.35
+4169800,"Stafford CDP, Oregon",masters,137,52,189,1389,13.61
+4169800,"Stafford CDP, Oregon",professional,69,54,123,1389,8.86
+4169800,"Stafford CDP, Oregon",doctorate,0,49,49,1389,3.53
+4173650,"Tigard city, Oregon",no_school,230,276,506,39519,1.28
+4173650,"Tigard city, Oregon",hs_no_diploma,175,303,478,39519,1.21
+4173650,"Tigard city, Oregon",hs_grad,3167,2716,5883,39519,14.89
+4173650,"Tigard city, Oregon",some_college,3227,3131,6358,39519,16.09
+4173650,"Tigard city, Oregon",associates,2092,1836,3928,39519,9.94
+4173650,"Tigard city, Oregon",bachelors,5706,6120,11826,39519,29.92
+4173650,"Tigard city, Oregon",masters,2910,1918,4828,39519,12.22
+4173650,"Tigard city, Oregon",professional,541,545,1086,39519,2.75
+4173650,"Tigard city, Oregon",doctorate,297,368,665,39519,1.68
+4174850,"Troutdale city, Oregon",no_school,94,108,202,10444,1.93
+4174850,"Troutdale city, Oregon",hs_no_diploma,68,91,159,10444,1.52
+4174850,"Troutdale city, Oregon",hs_grad,1481,1517,2998,10444,28.71
+4174850,"Troutdale city, Oregon",some_college,665,873,1538,10444,14.73
+4174850,"Troutdale city, Oregon",associates,598,697,1295,10444,12.40
+4174850,"Troutdale city, Oregon",bachelors,881,1073,1954,10444,18.71
+4174850,"Troutdale city, Oregon",masters,463,165,628,10444,6.01
+4174850,"Troutdale city, Oregon",professional,0,32,32,10444,0.31
+4174850,"Troutdale city, Oregon",doctorate,48,0,48,10444,0.46
+4174950,"Tualatin city, Oregon",no_school,56,314,370,18946,1.95
+4174950,"Tualatin city, Oregon",hs_no_diploma,126,149,275,18946,1.45
+4174950,"Tualatin city, Oregon",hs_grad,1604,1623,3227,18946,17.03
+4174950,"Tualatin city, Oregon",some_college,1620,1342,2962,18946,15.63
+4174950,"Tualatin city, Oregon",associates,772,714,1486,18946,7.84
+4174950,"Tualatin city, Oregon",bachelors,2525,2820,5345,18946,28.21
+4174950,"Tualatin city, Oregon",masters,1300,977,2277,18946,12.02
+4174950,"Tualatin city, Oregon",professional,290,233,523,18946,2.76
+4174950,"Tualatin city, Oregon",doctorate,196,238,434,18946,2.29
+4180025,"West Haven-Sylvan CDP, Oregon",no_school,6,1,7,5985,0.12
+4180025,"West Haven-Sylvan CDP, Oregon",hs_no_diploma,0,0,0,5985,0.00
+4180025,"West Haven-Sylvan CDP, Oregon",hs_grad,350,151,501,5985,8.37
+4180025,"West Haven-Sylvan CDP, Oregon",some_college,231,535,766,5985,12.80
+4180025,"West Haven-Sylvan CDP, Oregon",associates,328,54,382,5985,6.38
+4180025,"West Haven-Sylvan CDP, Oregon",bachelors,1185,924,2109,5985,35.24
+4180025,"West Haven-Sylvan CDP, Oregon",masters,697,475,1172,5985,19.58
+4180025,"West Haven-Sylvan CDP, Oregon",professional,237,229,466,5985,7.79
+4180025,"West Haven-Sylvan CDP, Oregon",doctorate,131,267,398,5985,6.65
+4180150,"West Linn city, Oregon",no_school,41,38,79,18654,0.42
+4180150,"West Linn city, Oregon",hs_no_diploma,57,53,110,18654,0.59
+4180150,"West Linn city, Oregon",hs_grad,1246,720,1966,18654,10.54
+4180150,"West Linn city, Oregon",some_college,1220,1285,2505,18654,13.43
+4180150,"West Linn city, Oregon",associates,599,544,1143,18654,6.13
+4180150,"West Linn city, Oregon",bachelors,3936,3462,7398,18654,39.66
+4180150,"West Linn city, Oregon",masters,1554,1473,3027,18654,16.23
+4180150,"West Linn city, Oregon",professional,334,512,846,18654,4.54
+4180150,"West Linn city, Oregon",doctorate,175,291,466,18654,2.50
+4180900,"West Slope CDP, Oregon",no_school,25,16,41,5230,0.78
+4180900,"West Slope CDP, Oregon",hs_no_diploma,13,41,54,5230,1.03
+4180900,"West Slope CDP, Oregon",hs_grad,301,573,874,5230,16.71
+4180900,"West Slope CDP, Oregon",some_college,375,269,644,5230,12.31
+4180900,"West Slope CDP, Oregon",associates,319,201,520,5230,9.94
+4180900,"West Slope CDP, Oregon",bachelors,782,695,1477,5230,28.24
+4180900,"West Slope CDP, Oregon",masters,417,337,754,5230,14.42
+4180900,"West Slope CDP, Oregon",professional,69,209,278,5230,5.32
+4180900,"West Slope CDP, Oregon",doctorate,62,66,128,5230,2.45
+4182800,"Wilsonville city, Oregon",no_school,120,49,169,18557,0.91
+4182800,"Wilsonville city, Oregon",hs_no_diploma,78,101,179,18557,0.96
+4182800,"Wilsonville city, Oregon",hs_grad,2193,1511,3704,18557,19.96
+4182800,"Wilsonville city, Oregon",some_college,1710,1126,2836,18557,15.28
+4182800,"Wilsonville city, Oregon",associates,1001,608,1609,18557,8.67
+4182800,"Wilsonville city, Oregon",bachelors,2951,2852,5803,18557,31.27
+4182800,"Wilsonville city, Oregon",masters,925,740,1665,18557,8.97
+4182800,"Wilsonville city, Oregon",professional,74,414,488,18557,2.63
+4182800,"Wilsonville city, Oregon",doctorate,264,193,457,18557,2.46
+4183950,"Wood Village city, Oregon",no_school,62,0,62,2619,2.37
+4183950,"Wood Village city, Oregon",hs_no_diploma,21,33,54,2619,2.06
+4183950,"Wood Village city, Oregon",hs_grad,259,548,807,2619,30.81
+4183950,"Wood Village city, Oregon",some_college,236,221,457,2619,17.45
+4183950,"Wood Village city, Oregon",associates,83,103,186,2619,7.10
+4183950,"Wood Village city, Oregon",bachelors,114,114,228,2619,8.71
+4183950,"Wood Village city, Oregon",masters,72,60,132,2619,5.04
+4183950,"Wood Village city, Oregon",professional,46,25,71,2619,2.71
+4183950,"Wood Village city, Oregon",doctorate,0,0,0,2619,0.00

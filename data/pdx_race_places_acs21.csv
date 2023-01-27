@@ -1,0 +1,421 @@
+"GEOID","NAME","variable","estimate","moe"
+"4101650","Aloha CDP, Oregon","B02001_008",5482,1242
+"4101650","Aloha CDP, Oregon","White",28922,1716
+"4101650","Aloha CDP, Oregon","Black",2240,653
+"4101650","Aloha CDP, Oregon","Native",142,88
+"4101650","Aloha CDP, Oregon","Asian",5188,758
+"4101650","Aloha CDP, Oregon","HIPI",99,148
+"4101650","Aloha CDP, Oregon","Hispanic",12665,1626
+"4103850","Banks city, Oregon","B02001_008",245,153
+"4103850","Banks city, Oregon","White",1530,254
+"4103850","Banks city, Oregon","Black",6,8
+"4103850","Banks city, Oregon","Native",0,13
+"4103850","Banks city, Oregon","Asian",35,15
+"4103850","Banks city, Oregon","HIPI",7,12
+"4103850","Banks city, Oregon","Hispanic",290,186
+"4104000","Barlow city, Oregon","B02001_008",0,13
+"4104000","Barlow city, Oregon","White",184,148
+"4104000","Barlow city, Oregon","Black",0,13
+"4104000","Barlow city, Oregon","Native",0,13
+"4104000","Barlow city, Oregon","Asian",0,13
+"4104000","Barlow city, Oregon","HIPI",0,13
+"4104000","Barlow city, Oregon","Hispanic",0,13
+"4105250","Beavercreek CDP, Oregon","B02001_008",127,109
+"4105250","Beavercreek CDP, Oregon","White",3616,492
+"4105250","Beavercreek CDP, Oregon","Black",37,64
+"4105250","Beavercreek CDP, Oregon","Native",56,56
+"4105250","Beavercreek CDP, Oregon","Asian",121,123
+"4105250","Beavercreek CDP, Oregon","HIPI",0,13
+"4105250","Beavercreek CDP, Oregon","Hispanic",99,62
+"4105350","Beaverton city, Oregon","B02001_008",8063,1283
+"4105350","Beaverton city, Oregon","White",59998,1756
+"4105350","Beaverton city, Oregon","Black",2126,486
+"4105350","Beaverton city, Oregon","Native",283,130
+"4105350","Beaverton city, Oregon","Asian",12049,1078
+"4105350","Beaverton city, Oregon","HIPI",534,310
+"4105350","Beaverton city, Oregon","Hispanic",16465,1420
+"4105950","Bethany CDP, Oregon","B02001_008",1555,476
+"4105950","Bethany CDP, Oregon","White",13498,1645
+"4105950","Bethany CDP, Oregon","Black",655,396
+"4105950","Bethany CDP, Oregon","Native",48,56
+"4105950","Bethany CDP, Oregon","Asian",11854,1058
+"4105950","Bethany CDP, Oregon","HIPI",112,151
+"4105950","Bethany CDP, Oregon","Hispanic",1471,505
+"4107550","Boring CDP, Oregon","B02001_008",157,95
+"4107550","Boring CDP, Oregon","White",1629,401
+"4107550","Boring CDP, Oregon","Black",0,13
+"4107550","Boring CDP, Oregon","Native",9,14
+"4107550","Boring CDP, Oregon","Asian",84,63
+"4107550","Boring CDP, Oregon","HIPI",0,13
+"4107550","Boring CDP, Oregon","Hispanic",120,138
+"4109535","Bull Mountain CDP, Oregon","B02001_008",343,171
+"4109535","Bull Mountain CDP, Oregon","White",7367,817
+"4109535","Bull Mountain CDP, Oregon","Black",341,169
+"4109535","Bull Mountain CDP, Oregon","Native",38,38
+"4109535","Bull Mountain CDP, Oregon","Asian",792,226
+"4109535","Bull Mountain CDP, Oregon","HIPI",88,99
+"4109535","Bull Mountain CDP, Oregon","Hispanic",523,262
+"4110750","Canby city, Oregon","B02001_008",1350,554
+"4110750","Canby city, Oregon","White",13723,681
+"4110750","Canby city, Oregon","Black",98,72
+"4110750","Canby city, Oregon","Native",58,38
+"4110750","Canby city, Oregon","Asian",245,154
+"4110750","Canby city, Oregon","HIPI",0,20
+"4110750","Canby city, Oregon","Hispanic",3218,709
+"4112050","Cedar Hills CDP, Oregon","B02001_008",961,440
+"4112050","Cedar Hills CDP, Oregon","White",5734,787
+"4112050","Cedar Hills CDP, Oregon","Black",341,312
+"4112050","Cedar Hills CDP, Oregon","Native",69,47
+"4112050","Cedar Hills CDP, Oregon","Asian",381,204
+"4112050","Cedar Hills CDP, Oregon","HIPI",9,17
+"4112050","Cedar Hills CDP, Oregon","Hispanic",2492,755
+"4112150","Cedar Mill CDP, Oregon","B02001_008",1498,543
+"4112150","Cedar Mill CDP, Oregon","White",12973,2070
+"4112150","Cedar Mill CDP, Oregon","Black",406,296
+"4112150","Cedar Mill CDP, Oregon","Native",42,62
+"4112150","Cedar Mill CDP, Oregon","Asian",3329,778
+"4112150","Cedar Mill CDP, Oregon","HIPI",9,14
+"4112150","Cedar Mill CDP, Oregon","Hispanic",1103,522
+"4112850","Cherry Grove CDP, Oregon","B02001_008",48,53
+"4112850","Cherry Grove CDP, Oregon","White",434,120
+"4112850","Cherry Grove CDP, Oregon","Black",0,13
+"4112850","Cherry Grove CDP, Oregon","Native",0,13
+"4112850","Cherry Grove CDP, Oregon","Asian",11,16
+"4112850","Cherry Grove CDP, Oregon","HIPI",0,13
+"4112850","Cherry Grove CDP, Oregon","Hispanic",85,55
+"4115550","Cornelius city, Oregon","B02001_008",602,283
+"4115550","Cornelius city, Oregon","White",5542,753
+"4115550","Cornelius city, Oregon","Black",170,140
+"4115550","Cornelius city, Oregon","Native",15,17
+"4115550","Cornelius city, Oregon","Asian",245,213
+"4115550","Cornelius city, Oregon","HIPI",0,20
+"4115550","Cornelius city, Oregon","Hispanic",6546,758
+"4117800","Damascus CDP, Oregon","B02001_008",369,198
+"4117800","Damascus CDP, Oregon","White",9237,953
+"4117800","Damascus CDP, Oregon","Black",6,13
+"4117800","Damascus CDP, Oregon","Native",25,38
+"4117800","Damascus CDP, Oregon","Asian",580,117
+"4117800","Damascus CDP, Oregon","HIPI",18,31
+"4117800","Damascus CDP, Oregon","Hispanic",599,240
+"4119650","Dilley CDP, Oregon","B02001_008",0,13
+"4119650","Dilley CDP, Oregon","White",240,136
+"4119650","Dilley CDP, Oregon","Black",0,13
+"4119650","Dilley CDP, Oregon","Native",0,13
+"4119650","Dilley CDP, Oregon","Asian",0,13
+"4119650","Dilley CDP, Oregon","HIPI",0,13
+"4119650","Dilley CDP, Oregon","Hispanic",0,13
+"4121215","Dunthorpe CDP, Oregon","B02001_008",80,39
+"4121215","Dunthorpe CDP, Oregon","White",1558,338
+"4121215","Dunthorpe CDP, Oregon","Black",0,13
+"4121215","Dunthorpe CDP, Oregon","Native",0,13
+"4121215","Dunthorpe CDP, Oregon","Asian",98,62
+"4121215","Dunthorpe CDP, Oregon","HIPI",2,5
+"4121215","Dunthorpe CDP, Oregon","Hispanic",27,24
+"4121250","Durham city, Oregon","B02001_008",250,166
+"4121250","Durham city, Oregon","White",1141,212
+"4121250","Durham city, Oregon","Black",37,35
+"4121250","Durham city, Oregon","Native",5,8
+"4121250","Durham city, Oregon","Asian",142,78
+"4121250","Durham city, Oregon","HIPI",56,89
+"4121250","Durham city, Oregon","Hispanic",584,297
+"4123800","Estacada city, Oregon","B02001_008",201,127
+"4123800","Estacada city, Oregon","White",4016,186
+"4123800","Estacada city, Oregon","Black",2,4
+"4123800","Estacada city, Oregon","Native",66,75
+"4123800","Estacada city, Oregon","Asian",68,77
+"4123800","Estacada city, Oregon","HIPI",0,13
+"4123800","Estacada city, Oregon","Hispanic",43,65
+"4124250","Fairview city, Oregon","B02001_008",491,233
+"4124250","Fairview city, Oregon","White",6112,828
+"4124250","Fairview city, Oregon","Black",1188,701
+"4124250","Fairview city, Oregon","Native",104,96
+"4124250","Fairview city, Oregon","Asian",13,22
+"4124250","Fairview city, Oregon","HIPI",351,408
+"4124250","Fairview city, Oregon","Hispanic",2101,734
+"4126200","Forest Grove city, Oregon","B02001_008",2491,659
+"4126200","Forest Grove city, Oregon","White",16825,1192
+"4126200","Forest Grove city, Oregon","Black",248,159
+"4126200","Forest Grove city, Oregon","Native",55,44
+"4126200","Forest Grove city, Oregon","Asian",513,125
+"4126200","Forest Grove city, Oregon","HIPI",0,24
+"4126200","Forest Grove city, Oregon","Hispanic",7130,1105
+"4127825","Garden Home-Whitford CDP, Oregon","B02001_008",468,283
+"4127825","Garden Home-Whitford CDP, Oregon","White",6234,773
+"4127825","Garden Home-Whitford CDP, Oregon","Black",65,55
+"4127825","Garden Home-Whitford CDP, Oregon","Native",15,21
+"4127825","Garden Home-Whitford CDP, Oregon","Asian",274,149
+"4127825","Garden Home-Whitford CDP, Oregon","HIPI",0,18
+"4127825","Garden Home-Whitford CDP, Oregon","Hispanic",236,157
+"4128100","Gaston city, Oregon","B02001_008",46,30
+"4128100","Gaston city, Oregon","White",554,146
+"4128100","Gaston city, Oregon","Black",0,13
+"4128100","Gaston city, Oregon","Native",0,13
+"4128100","Gaston city, Oregon","Asian",0,13
+"4128100","Gaston city, Oregon","HIPI",0,13
+"4128100","Gaston city, Oregon","Hispanic",33,24
+"4129000","Gladstone city, Oregon","B02001_008",1250,552
+"4129000","Gladstone city, Oregon","White",9123,708
+"4129000","Gladstone city, Oregon","Black",223,158
+"4129000","Gladstone city, Oregon","Native",132,115
+"4129000","Gladstone city, Oregon","Asian",217,139
+"4129000","Gladstone city, Oregon","HIPI",22,37
+"4129000","Gladstone city, Oregon","Hispanic",1583,709
+"4130250","Government Camp CDP, Oregon","B02001_008",0,13
+"4130250","Government Camp CDP, Oregon","White",84,98
+"4130250","Government Camp CDP, Oregon","Black",0,13
+"4130250","Government Camp CDP, Oregon","Native",0,13
+"4130250","Government Camp CDP, Oregon","Asian",0,13
+"4130250","Government Camp CDP, Oregon","HIPI",0,13
+"4130250","Government Camp CDP, Oregon","Hispanic",0,13
+"4131250","Gresham city, Oregon","B02001_008",11879,1525
+"4131250","Gresham city, Oregon","White",72261,2082
+"4131250","Gresham city, Oregon","Black",4459,906
+"4131250","Gresham city, Oregon","Native",820,264
+"4131250","Gresham city, Oregon","Asian",5479,981
+"4131250","Gresham city, Oregon","HIPI",1196,590
+"4131250","Gresham city, Oregon","Hispanic",23681,1975
+"4132050","Happy Valley city, Oregon","B02001_008",2247,675
+"4132050","Happy Valley city, Oregon","White",14901,977
+"4132050","Happy Valley city, Oregon","Black",212,133
+"4132050","Happy Valley city, Oregon","Native",91,110
+"4132050","Happy Valley city, Oregon","Asian",4631,681
+"4132050","Happy Valley city, Oregon","HIPI",25,40
+"4132050","Happy Valley city, Oregon","Hispanic",1500,570
+"4134100","Hillsboro city, Oregon","B02001_008",11722,1492
+"4134100","Hillsboro city, Oregon","White",57455,1531
+"4134100","Hillsboro city, Oregon","Black",3051,687
+"4134100","Hillsboro city, Oregon","Native",300,144
+"4134100","Hillsboro city, Oregon","Asian",12513,1164
+"4134100","Hillsboro city, Oregon","HIPI",762,378
+"4134100","Hillsboro city, Oregon","Hispanic",25304,1643
+"4137400","Jennings Lodge CDP, Oregon","B02001_008",631,271
+"4137400","Jennings Lodge CDP, Oregon","White",6428,944
+"4137400","Jennings Lodge CDP, Oregon","Black",150,125
+"4137400","Jennings Lodge CDP, Oregon","Native",17,29
+"4137400","Jennings Lodge CDP, Oregon","Asian",113,76
+"4137400","Jennings Lodge CDP, Oregon","HIPI",0,18
+"4137400","Jennings Lodge CDP, Oregon","Hispanic",821,283
+"4137650","Johnson City city, Oregon","B02001_008",42,46
+"4137650","Johnson City city, Oregon","White",352,75
+"4137650","Johnson City city, Oregon","Black",9,11
+"4137650","Johnson City city, Oregon","Native",3,6
+"4137650","Johnson City city, Oregon","Asian",9,13
+"4137650","Johnson City city, Oregon","HIPI",0,13
+"4137650","Johnson City city, Oregon","Hispanic",75,70
+"4139150","King City city, Oregon","B02001_008",216,145
+"4139150","King City city, Oregon","White",4040,376
+"4139150","King City city, Oregon","Black",154,124
+"4139150","King City city, Oregon","Native",0,13
+"4139150","King City city, Oregon","Asian",166,132
+"4139150","King City city, Oregon","HIPI",0,13
+"4139150","King City city, Oregon","Hispanic",479,348
+"4140550","Lake Oswego city, Oregon","B02001_008",3631,701
+"4140550","Lake Oswego city, Oregon","White",31364,915
+"4140550","Lake Oswego city, Oregon","Black",276,172
+"4140550","Lake Oswego city, Oregon","Native",169,185
+"4140550","Lake Oswego city, Oregon","Asian",3329,585
+"4140550","Lake Oswego city, Oregon","HIPI",70,90
+"4140550","Lake Oswego city, Oregon","Hispanic",2209,508
+"4146100","Marlene Village CDP, Oregon","B02001_008",254,96
+"4146100","Marlene Village CDP, Oregon","White",3377,681
+"4146100","Marlene Village CDP, Oregon","Black",78,83
+"4146100","Marlene Village CDP, Oregon","Native",0,18
+"4146100","Marlene Village CDP, Oregon","Asian",649,288
+"4146100","Marlene Village CDP, Oregon","HIPI",0,18
+"4146100","Marlene Village CDP, Oregon","Hispanic",855,394
+"4146730","Maywood Park city, Oregon","B02001_008",43,21
+"4146730","Maywood Park city, Oregon","White",911,238
+"4146730","Maywood Park city, Oregon","Black",23,32
+"4146730","Maywood Park city, Oregon","Native",0,13
+"4146730","Maywood Park city, Oregon","Asian",35,20
+"4146730","Maywood Park city, Oregon","HIPI",0,13
+"4146730","Maywood Park city, Oregon","Hispanic",65,32
+"4147800","Metzger CDP, Oregon","B02001_008",533,290
+"4147800","Metzger CDP, Oregon","White",3020,628
+"4147800","Metzger CDP, Oregon","Black",66,69
+"4147800","Metzger CDP, Oregon","Native",7,23
+"4147800","Metzger CDP, Oregon","Asian",90,68
+"4147800","Metzger CDP, Oregon","HIPI",0,13
+"4147800","Metzger CDP, Oregon","Hispanic",742,430
+"4148650","Milwaukie city, Oregon","B02001_008",1873,471
+"4148650","Milwaukie city, Oregon","White",17019,632
+"4148650","Milwaukie city, Oregon","Black",201,106
+"4148650","Milwaukie city, Oregon","Native",42,35
+"4148650","Milwaukie city, Oregon","Asian",541,217
+"4148650","Milwaukie city, Oregon","HIPI",20,37
+"4148650","Milwaukie city, Oregon","Hispanic",1960,469
+"4149450","Molalla city, Oregon","B02001_008",254,157
+"4149450","Molalla city, Oregon","White",8929,344
+"4149450","Molalla city, Oregon","Black",17,26
+"4149450","Molalla city, Oregon","Native",43,34
+"4149450","Molalla city, Oregon","Asian",95,136
+"4149450","Molalla city, Oregon","HIPI",0,20
+"4149450","Molalla city, Oregon","Hispanic",847,299
+"4150236","Mount Hood Villages CDP, Oregon","B02001_008",159,104
+"4150236","Mount Hood Villages CDP, Oregon","White",4012,572
+"4150236","Mount Hood Villages CDP, Oregon","Black",0,13
+"4150236","Mount Hood Villages CDP, Oregon","Native",0,13
+"4150236","Mount Hood Villages CDP, Oregon","Asian",50,42
+"4150236","Mount Hood Villages CDP, Oregon","HIPI",14,32
+"4150236","Mount Hood Villages CDP, Oregon","Hispanic",162,118
+"4150450","Mulino CDP, Oregon","B02001_008",14,22
+"4150450","Mulino CDP, Oregon","White",2093,422
+"4150450","Mulino CDP, Oregon","Black",0,13
+"4150450","Mulino CDP, Oregon","Native",106,99
+"4150450","Mulino CDP, Oregon","Asian",30,30
+"4150450","Mulino CDP, Oregon","HIPI",0,13
+"4150450","Mulino CDP, Oregon","Hispanic",8,12
+"4153150","North Plains city, Oregon","B02001_008",288,149
+"4153150","North Plains city, Oregon","White",2145,212
+"4153150","North Plains city, Oregon","Black",245,178
+"4153150","North Plains city, Oregon","Native",21,24
+"4153150","North Plains city, Oregon","Asian",233,101
+"4153150","North Plains city, Oregon","HIPI",16,23
+"4153150","North Plains city, Oregon","Hispanic",460,133
+"4153900","Oak Grove CDP, Oregon","B02001_008",1391,409
+"4153900","Oak Grove CDP, Oregon","White",13965,1368
+"4153900","Oak Grove CDP, Oregon","Black",180,167
+"4153900","Oak Grove CDP, Oregon","Native",78,92
+"4153900","Oak Grove CDP, Oregon","Asian",226,106
+"4153900","Oak Grove CDP, Oregon","HIPI",10,16
+"4153900","Oak Grove CDP, Oregon","Hispanic",1822,647
+"4153988","Oak Hills CDP, Oregon","B02001_008",816,282
+"4153988","Oak Hills CDP, Oregon","White",7577,714
+"4153988","Oak Hills CDP, Oregon","Black",132,77
+"4153988","Oak Hills CDP, Oregon","Native",30,27
+"4153988","Oak Hills CDP, Oregon","Asian",2435,783
+"4153988","Oak Hills CDP, Oregon","HIPI",13,22
+"4153988","Oak Hills CDP, Oregon","Hispanic",920,468
+"4154325","Oatfield CDP, Oregon","B02001_008",715,279
+"4154325","Oatfield CDP, Oregon","White",10823,1114
+"4154325","Oatfield CDP, Oregon","Black",110,88
+"4154325","Oatfield CDP, Oregon","Native",24,35
+"4154325","Oatfield CDP, Oregon","Asian",424,188
+"4154325","Oatfield CDP, Oregon","HIPI",0,20
+"4154325","Oatfield CDP, Oregon","Hispanic",1043,432
+"4155200","Oregon City city, Oregon","B02001_008",2014,463
+"4155200","Oregon City city, Oregon","White",32713,773
+"4155200","Oregon City city, Oregon","Black",165,129
+"4155200","Oregon City city, Oregon","Native",318,179
+"4155200","Oregon City city, Oregon","Asian",439,191
+"4155200","Oregon City city, Oregon","HIPI",7,15
+"4155200","Oregon City city, Oregon","Hispanic",1754,492
+"4155500","Orient CDP, Oregon","B02001_008",17,24
+"4155500","Orient CDP, Oregon","White",714,466
+"4155500","Orient CDP, Oregon","Black",0,13
+"4155500","Orient CDP, Oregon","Native",0,13
+"4155500","Orient CDP, Oregon","Asian",0,13
+"4155500","Orient CDP, Oregon","HIPI",0,13
+"4155500","Orient CDP, Oregon","Hispanic",17,24
+"4159000","Portland city, Oregon","B02001_008",51721,2510
+"4159000","Portland city, Oregon","White",444988,2480
+"4159000","Portland city, Oregon","Black",35323,1584
+"4159000","Portland city, Oregon","Native",3685,376
+"4159000","Portland city, Oregon","Asian",54599,1532
+"4159000","Portland city, Oregon","HIPI",3475,690
+"4159000","Portland city, Oregon","Hispanic",66415,1816
+"4160900","Raleigh Hills CDP, Oregon","B02001_008",443,246
+"4160900","Raleigh Hills CDP, Oregon","White",5228,740
+"4160900","Raleigh Hills CDP, Oregon","Black",28,49
+"4160900","Raleigh Hills CDP, Oregon","Native",44,58
+"4160900","Raleigh Hills CDP, Oregon","Asian",486,319
+"4160900","Raleigh Hills CDP, Oregon","HIPI",24,37
+"4160900","Raleigh Hills CDP, Oregon","Hispanic",571,353
+"4161550","Rhododendron CDP, Oregon","B02001_008",0,13
+"4161550","Rhododendron CDP, Oregon","White",173,118
+"4161550","Rhododendron CDP, Oregon","Black",0,13
+"4161550","Rhododendron CDP, Oregon","Native",0,13
+"4161550","Rhododendron CDP, Oregon","Asian",0,13
+"4161550","Rhododendron CDP, Oregon","HIPI",0,13
+"4161550","Rhododendron CDP, Oregon","Hispanic",0,13
+"4162250","Rivergrove city, Oregon","B02001_008",35,25
+"4162250","Rivergrove city, Oregon","White",417,104
+"4162250","Rivergrove city, Oregon","Black",10,16
+"4162250","Rivergrove city, Oregon","Native",0,13
+"4162250","Rivergrove city, Oregon","Asian",58,48
+"4162250","Rivergrove city, Oregon","HIPI",22,47
+"4162250","Rivergrove city, Oregon","Hispanic",8,10
+"4163010","Rockcreek CDP, Oregon","B02001_008",952,550
+"4163010","Rockcreek CDP, Oregon","White",7262,732
+"4163010","Rockcreek CDP, Oregon","Black",34,35
+"4163010","Rockcreek CDP, Oregon","Native",41,31
+"4163010","Rockcreek CDP, Oregon","Asian",989,231
+"4163010","Rockcreek CDP, Oregon","HIPI",7,13
+"4163010","Rockcreek CDP, Oregon","Hispanic",1054,597
+"4165250","Sandy city, Oregon","B02001_008",830,344
+"4165250","Sandy city, Oregon","White",10343,686
+"4165250","Sandy city, Oregon","Black",35,32
+"4165250","Sandy city, Oregon","Native",29,42
+"4165250","Sandy city, Oregon","Asian",267,285
+"4165250","Sandy city, Oregon","HIPI",0,20
+"4165250","Sandy city, Oregon","Hispanic",1095,547
+"4167100","Sherwood city, Oregon","B02001_008",2171,757
+"4167100","Sherwood city, Oregon","White",16606,801
+"4167100","Sherwood city, Oregon","Black",12,22
+"4167100","Sherwood city, Oregon","Native",61,65
+"4167100","Sherwood city, Oregon","Asian",712,231
+"4167100","Sherwood city, Oregon","HIPI",39,55
+"4167100","Sherwood city, Oregon","Hispanic",1278,427
+"4169800","Stafford CDP, Oregon","B02001_008",74,94
+"4169800","Stafford CDP, Oregon","White",1887,540
+"4169800","Stafford CDP, Oregon","Black",34,43
+"4169800","Stafford CDP, Oregon","Native",0,13
+"4169800","Stafford CDP, Oregon","Asian",4,7
+"4169800","Stafford CDP, Oregon","HIPI",0,13
+"4169800","Stafford CDP, Oregon","Hispanic",0,13
+"4173650","Tigard city, Oregon","B02001_008",3774,749
+"4173650","Tigard city, Oregon","White",39353,1353
+"4173650","Tigard city, Oregon","Black",644,252
+"4173650","Tigard city, Oregon","Native",120,85
+"4173650","Tigard city, Oregon","Asian",5027,732
+"4173650","Tigard city, Oregon","HIPI",323,340
+"4173650","Tigard city, Oregon","Hispanic",6487,1217
+"4174850","Troutdale city, Oregon","B02001_008",1088,441
+"4174850","Troutdale city, Oregon","White",11617,768
+"4174850","Troutdale city, Oregon","Black",332,259
+"4174850","Troutdale city, Oregon","Native",119,72
+"4174850","Troutdale city, Oregon","Asian",727,319
+"4174850","Troutdale city, Oregon","HIPI",6,9
+"4174850","Troutdale city, Oregon","Hispanic",2479,532
+"4174950","Tualatin city, Oregon","B02001_008",3484,740
+"4174950","Tualatin city, Oregon","White",18435,811
+"4174950","Tualatin city, Oregon","Black",379,256
+"4174950","Tualatin city, Oregon","Native",61,47
+"4174950","Tualatin city, Oregon","Asian",768,192
+"4174950","Tualatin city, Oregon","HIPI",327,199
+"4174950","Tualatin city, Oregon","Hispanic",5986,781
+"4180025","West Haven-Sylvan CDP, Oregon","B02001_008",655,327
+"4180025","West Haven-Sylvan CDP, Oregon","White",6443,633
+"4180025","West Haven-Sylvan CDP, Oregon","Black",205,157
+"4180025","West Haven-Sylvan CDP, Oregon","Native",0,18
+"4180025","West Haven-Sylvan CDP, Oregon","Asian",598,307
+"4180025","West Haven-Sylvan CDP, Oregon","HIPI",0,18
+"4180025","West Haven-Sylvan CDP, Oregon","Hispanic",671,370
+"4180150","West Linn city, Oregon","B02001_008",1572,485
+"4180150","West Linn city, Oregon","White",22359,758
+"4180150","West Linn city, Oregon","Black",344,203
+"4180150","West Linn city, Oregon","Native",17,21
+"4180150","West Linn city, Oregon","Asian",1421,401
+"4180150","West Linn city, Oregon","HIPI",62,61
+"4180150","West Linn city, Oregon","Hispanic",1844,495
+"4180900","West Slope CDP, Oregon","B02001_008",439,177
+"4180900","West Slope CDP, Oregon","White",5764,610
+"4180900","West Slope CDP, Oregon","Black",80,76
+"4180900","West Slope CDP, Oregon","Native",35,45
+"4180900","West Slope CDP, Oregon","Asian",183,121
+"4180900","West Slope CDP, Oregon","HIPI",0,18
+"4180900","West Slope CDP, Oregon","Hispanic",580,371
+"4182800","Wilsonville city, Oregon","B02001_008",2731,900
+"4182800","Wilsonville city, Oregon","White",18937,1065
+"4182800","Wilsonville city, Oregon","Black",488,212
+"4182800","Wilsonville city, Oregon","Native",198,128
+"4182800","Wilsonville city, Oregon","Asian",1123,322
+"4182800","Wilsonville city, Oregon","HIPI",283,244
+"4182800","Wilsonville city, Oregon","Hispanic",3433,997
+"4183950","Wood Village city, Oregon","B02001_008",587,293
+"4183950","Wood Village city, Oregon","White",1703,374
+"4183950","Wood Village city, Oregon","Black",20,22
+"4183950","Wood Village city, Oregon","Native",20,29
+"4183950","Wood Village city, Oregon","Asian",140,122
+"4183950","Wood Village city, Oregon","HIPI",71,105
+"4183950","Wood Village city, Oregon","Hispanic",2219,354
