@@ -1,0 +1,95 @@
+
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+    <title>Age</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="utf-8">
+
+    <!-- Load jQuery -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+  
+  </head>
+
+  <body>
+
+    <div>
+        <canvas id="age" style="height: 400px; width: 100%"></canvas>
+    </div>
+
+      <p style="font-family: Helvetica; color: #333; padding: 1em 2em; font-size: 12px">
+        Source: U.S. Census Bureau
+      </p>
+
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script src="https://unpkg.com/chartjs-plugin-colorschemes@0.4.0/dist/chartjs-plugin-colorschemes.min.js"></script>
+
+	<script>
+
+        // Get container for the chart
+
+    var ctx = document.getElementById('age').getContext('2d');
+        
+    new Chart(ctx, {
+        type: 'bar',
+        data: {
+            labels: ["Under 10 years","10-19","20-34","35-49","50-64","65 and up"],
+            datasets: [{
+            label: 'Number of residents',
+            data: [3133,4048,3393,5855,3847,3166],
+            backgroundColor: [
+                'rgba(255, 99, 132, 0.2)',
+                'rgba(255, 99, 132, 0.2)',
+                'rgba(255, 99, 132, 0.2)',
+                'rgba(255, 99, 132, 0.2)',
+                'rgba(255, 99, 132, 0.2)',
+                'rgba(255, 99, 132, 0.2)',
+            ],
+            borderColor: [
+                'rgba(255, 99, 132, 1)',
+                'rgba(255, 99, 132, 1)',
+                'rgba(255, 99, 132, 1)',
+                'rgba(255, 99, 132, 1)',
+                'rgba(255, 99, 132, 1)',
+                'rgba(255, 99, 132, 1)',
+            ],
+            borderWidth: 1
+            }]
+        },
+        options: {
+            plugins: {
+                legend: {
+                    display: false
+                },
+            },
+            scales: {
+                xAxes: [{
+                    display: true,
+                }],
+                yAxes: [{
+                    type: 'linear',
+                    ticks: {
+                        suggestedMin: 0,    // minimum will be 0, unless there is a lower value.
+                        // OR //
+                        beginAtZero: true,   // minimum value will be 0.
+                        userCallback: function(value, index, values) {
+                            value = value.toString();
+                            value = value.split(/(?=(?:...)*$)/);
+                            value = value.join(',');
+                            return value;
+                        }
+                    },            
+                    scaleLabel: {
+                        display: true,
+                        labelString: 'Age range'
+                    }
+                }]
+            },
+	    }
+    });
+  
+  </script>    
+    
+  </body>
+</html>

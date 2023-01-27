@@ -1,0 +1,83 @@
+
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+    <title>Income</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="utf-8">
+
+    <!-- Load jQuery -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+  
+  </head>
+
+  <body>
+
+    <div>
+        <canvas id="income" style="height: 400px; width: 100%"></canvas>
+    </div>
+
+      <p style="font-family: Helvetica; color: #333; padding: 1em 2em; font-size: 12px">
+        Source: U.S. Census Bureau
+      </p>
+
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script src="https://unpkg.com/chartjs-plugin-colorschemes@0.4.0/dist/chartjs-plugin-colorschemes.min.js"></script>
+
+	<script>
+
+        // Get container for the chart
+
+    var ctx = document.getElementById('income').getContext('2d');
+        
+    new Chart(ctx, {
+      type: 'bar',
+      data: {
+        labels: ["Less than $25,000","$25,000 to $34,999","$35,000 to $49,999","$50,000 to $74,999","$75,000 to $99,999","$100,000 to $149,999","$150,000 to $199,999","$200,000 or more"],
+        datasets: [{
+          label: 'Household income in 2021 dollars',
+          data: [5.3,4.7,5.8,11.2,10.3,23.6,14.2,24.9],
+          backgroundColor: [
+              'rgba(255, 99, 132, 0.2)',
+              'rgba(255, 99, 132, 0.2)',
+              'rgba(255, 99, 132, 0.2)',
+              'rgba(255, 99, 132, 0.2)',
+              'rgba(255, 99, 132, 0.2)',
+              'rgba(255, 99, 132, 0.2)',
+              'rgba(255, 99, 132, 0.2)',
+              'rgba(255, 99, 132, 0.2)',
+          ],
+          borderColor: [
+              'rgba(255, 99, 132, 1)',
+              'rgba(255, 99, 132, 1)',
+              'rgba(255, 99, 132, 1)',
+              'rgba(255, 99, 132, 1)',
+              'rgba(255, 99, 132, 1)',
+              'rgba(255, 99, 132, 1)',
+              'rgba(255, 99, 132, 1)',
+              'rgba(255, 99, 132, 1)',
+          ],
+          borderWidth: 1
+        }]
+      },
+      options: {
+        plugins: {
+            legend: {
+                display: false
+            },
+        },
+        scales: {
+            yAxes: [{
+                ticks: {
+                    beginAtZero: true
+                }
+            }]
+        }
+      }
+    });
+  
+  </script>    
+    
+  </body>
+</html>

@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+    <title>Marital Status</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="utf-8">
+
+    <!-- Load jQuery -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+  
+  </head>
+
+  <body>
+
+    <div>
+        <h3>Male</h3>
+        <canvas id="male" style="height: 400px; width: 100%"></canvas>
+    </div>
+    <div>
+        <h3>Female</h3>
+        <canvas id="female" style="height: 400px; width: 100%"></canvas>
+    </div>
+
+      <p style="font-family: Helvetica; color: #333; padding: 1em 2em; font-size: 12px">
+        Source: U.S. Census Bureau
+      </p>
+
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.9.4/Chart.min.js" integrity="sha512-d9xgZrVZpmmQlfonhQUvTR7lMPtO7NkZMkA0ABN3PHCbKA5nqylQ/yWlFAyY6hYgdF1Qh6nYiuADWwKB4C2WSw==" crossorigin="anonymous"></script>
+    <script src="https://unpkg.com/chartjs-plugin-colorschemes@0.4.0/dist/chartjs-plugin-colorschemes.min.js"></script>
+
+	<script>
+
+        // Get container for the chart
+
+
+    var male = {
+        labels: ["Married","Widowed","Divorced","Separated","Never married"],
+        datasets: [{
+            label: 'Male',
+            data: [59.9,3.5,6.5,0.4,29.7],
+            backgroundColor: [
+            '#ff6384',
+            '#36a2eb',
+            '#ffce56',
+            '#cc65fe',
+            '#ff7f0e',
+            ],
+            hoverOffset: 4
+        }]
+    };
+
+
+    var female = {
+        labels: ["Married","Widowed","Divorced","Separated","Never married"],
+        datasets: [{
+            label: 'Female',
+            data: [56.1,4.8,10.9,0.3,27.9],
+            backgroundColor: [
+            '#ff6384',
+            '#36a2eb',
+            '#ffce56',
+            '#cc65fe',
+            '#ff7f0e',
+            ],
+            hoverOffset: 4
+        }]
+    };
+    
+
+    var func1 = function() {
+        var ctm = document.getElementById('male').getContext('2d');
+        new Chart(ctm, {
+            type: 'pie',
+            data: male
+        });
+    };
+    var func2 = function() {
+        var ctf = document.getElementById('female').getContext('2d');
+        new Chart(ctf, {
+            type: 'pie',
+            data: female,
+            options: {
+                plugins: {
+                    legend: {
+                        display: false
+                    },
+                }
+            }
+        });
+    };
+
+window.onload = function() {
+    func1();
+    func2();
+};
+  
+  </script>    
+    
+  </body>
+</html>
