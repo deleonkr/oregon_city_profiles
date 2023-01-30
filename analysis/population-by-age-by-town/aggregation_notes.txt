@@ -1,0 +1,157 @@
+## ORIGINAL COLUMNS - MAIN TABLE
+1: Total: 
+2: Male: 
+3: Male: Under 5 years 
+4: Male: 5 to 9 years 
+5: Male: 10 to 14 years 
+6: Male: 15 to 17 years 
+7: Male: 18 and 19 years 
+8: Male: 20 years 
+9: Male: 21 years 
+10: Male: 22 to 24 years 
+11: Male: 25 to 29 years 
+12: Male: 30 to 34 years 
+13: Male: 35 to 39 years 
+14: Male: 40 to 44 years 
+15: Male: 45 to 49 years 
+16: Male: 50 to 54 years 
+17: Male: 55 to 59 years 
+18: Male: 60 and 61 years 
+19: Male: 62 to 64 years 
+20: Male: 65 and 66 years 
+21: Male: 67 to 69 years 
+22: Male: 70 to 74 years 
+23: Male: 75 to 79 years 
+24: Male: 80 to 84 years 
+25: Male: 85 years and over 
+26: Female: 
+27: Female: Under 5 years 
+28: Female: 5 to 9 years 
+29: Female: 10 to 14 years 
+30: Female: 15 to 17 years 
+31: Female: 18 and 19 years 
+32: Female: 20 years 
+33: Female: 21 years 
+34: Female: 22 to 24 years 
+35: Female: 25 to 29 years 
+36: Female: 30 to 34 years 
+37: Female: 35 to 39 years 
+38: Female: 40 to 44 years 
+39: Female: 45 to 49 years 
+40: Female: 50 to 54 years 
+41: Female: 55 to 59 years 
+42: Female: 60 and 61 years 
+43: Female: 62 to 64 years 
+44: Female: 65 and 66 years 
+45: Female: 67 to 69 years 
+46: Female: 70 to 74 years 
+47: Female: 75 to 79 years 
+48: Female: 80 to 84 years 
+49: Female: 85 years and over 
+
+## ORIGINAL COLUMNS - RACE TABLES
+1: Total: 
+2: Male: 
+3: Male: Under 5 years 
+4: Male: 5 to 9 years 
+5: Male: 10 to 14 years 
+6: Male: 15 to 17 years 
+7: Male: 18 and 19 years 
+8: Male: 20 to 24 years 
+9: Male: 25 to 29 years 
+10: Male: 30 to 34 years 
+11: Male: 35 to 44 years 
+12: Male: 45 to 54 years 
+13: Male: 55 to 64 years 
+14: Male: 65 to 74 years 
+15: Male: 75 to 84 years 
+16: Male: 85 years and over 
+17: Female: 
+18: Female: Under 5 years 
+19: Female: 5 to 9 years 
+20: Female: 10 to 14 years 
+21: Female: 15 to 17 years 
+22: Female: 18 and 19 years 
+23: Female: 20 to 24 years 
+24: Female: 25 to 29 years 
+25: Female: 30 to 34 years 
+26: Female: 35 to 44 years 
+27: Female: 45 to 54 years 
+28: Female: 55 to 64 years 
+29: Female: 65 to 74 years 
+30: Female: 75 to 84 years 
+31: Female: 85 years and over 
+
+### OUTPUT ###
+Age Cohorts:
+    - Total
+    - 0 to 4 years
+    - 5 to 9 years
+    - 10 to 14 years
+    - 15 to 19 years
+    - 20 to 24 years
+    - 25 to 29 years
+    - 30 to 34 years
+    - 35 to 44 years
+    - 45 to 54 years
+    - 55 to 64 years
+    - 65 to 74 years
+    - 75 to 84 years
+    - 85 years and over
+
+Race/Ethnicity:
+    - All ten disags (9 + Total)
+
+Gender:
+    - Total
+    - Male
+    - Female
+
+
+### AGGREGATED COLUMNS
+# Total:Total, 1
+# Total:0 to 4 years, 3,27
+# Total:5 to 9 years, 4,28
+# Total:10 to 14 years, 5,29
+# Total:15 to 19 years, 6:7,30:31
+# Total:20 to 24 years, 8:10,32:24
+# Total:25 to 29 years, 11,35
+# Total:30 to 34 years, 12,36
+# Total:35 to 44 years, 13:14,37:38
+# Total:45 to 54 years, 15:16, 39:40
+# Total:55 to 64 years, 17:19,41:43
+# Total:65 to 74 years, 20:22, 44:46
+# Total:75 to 84 years, 23:24, 47:48
+# Total:85 years and over, 25,49
+
+# Gender = Male
+# Male:Total, 2
+# Male:0 to 4 years, 3
+# Male:5 to 9 years, 4
+# Male:10 to 14 years, 5
+# Male:15 to 19 years, 6:7
+# Male:20 to 24 years, 8:10
+# Male:25 to 29 years, 11
+# Male:30 to 34 years, 12
+# Male:35 to 44 years, 13:14
+# Male:45 to 54 years, 15:16
+# Male:55 to 64 years, 17:19
+# Male:65 to 74 years, 20:22
+# Male:75 to 84 years, 23:24
+# Male:85 years and over, 25
+
+# Gender = Female
+# Female:Total, 26
+# Female:0 to 4 years, 27
+# Female:5 to 9 years, 28
+# Female:10 to 14 years, 29
+# Female:15 to 19 years, 30:31
+# Female:20 to 24 years, 32:24
+# Female:25 to 29 years, 35
+# Female:30 to 34 years, 36
+# Female:35 to 44 years, 37:38
+# Female:45 to 54 years,  39:40
+# Female:55 to 64 years, 41:43
+# Female:65 to 74 years,  44:46
+# Female:75 to 84 years,  47:48
+# Female:85 years and over, 49
