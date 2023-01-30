@@ -1,0 +1,264 @@
+{
+  "name": "population-by-age-by-town",
+  "datapackage_version": "1.0-beta.18",
+  "title": "Population by Age by Town",
+  "description": "Population by Age by Town reports the number and percentage of people living in an area, per age range, gender, and Race/Ethnicity.",
+  "version": "1.0",
+  "licenses": [{
+    "url": "http://opendatacommons.org/licenses/pddl/",
+    "name": "Open Data Commons Public Domain",
+    "version": "1.0",
+    "id": "odc-pddl"
+  }],
+  "sources": [{
+    "name": "uscensus",
+    "web": ""
+  }],
+  "author":[{
+    "name": "Kristine de Leon",
+    "email": "kdeleon@oregonian.com",
+    "web": "oregonlive.com"
+  }],
+  "contributor": [],
+  "resources": [{
+    "path": "data/population-by-age-town-2020.csv",
+    "format": "csv",
+    "schema": {
+      "fields": [{
+          "name": "Town",
+          "type": "string",
+          "dimension": false
+        }, {
+          "name": "FIPS",
+          "type": "string",
+          "dimension": false
+        }, {
+          "name": "Year",
+          "type": "string",
+          "dimension": false
+        }, {
+          "name": "Gender",
+          "type": "string",
+          "dimension": true,
+          "constraints": {
+            "enum": ["Total", "Male", "Female"]
+         }
+        }, {
+          "name": "Age Cohort",
+          "type": "string",
+          "dimension": true,
+          "constraints": {
+            "enum": ["Total",
+                     "0 to 4 years",
+                     "5 to 9 years",
+                     "10 to 14 years",
+                     "15 to 19 years",
+                     "20 to 24 years",
+                     "25 to 29 years",
+                     "30 to 34 years",
+                     "35 to 44 years",
+                     "45 to 54 years",
+                     "55 to 64 years",
+                     "65 to 74 years",
+                     "75 to 84 years",
+                     "85 years and over"]
+         }
+        }, {
+          "name": "Race/Ethnicity",
+          "type": "string",
+          "dimension": true,
+          "constraints": {
+            "enum": ["All",
+                     "American Indian and Alaska Native Alone",
+                     "Asian Alone",
+                     "Black or African American Alone",
+                     "Hispanic or Latino",
+                     "Native Hawaiian and Other Pacific Islander",
+                     "Some Other Race Alone",
+                     "Two or More Races",
+                     "White Alone",
+                     "White Alone Not Hispanic or Latino"]
+         }
+        }, {
+          "name": "Measure Type",
+          "type": "string",
+          "dimension": true,
+          "constraints": {
+            "enum": ["Number", "Percent"]
+         }
+        }, {
+          "name": "Variable",
+          "type": "string",
+          "dimension": true,
+          "constraints": {
+            "enum": ["Population", "Margins of Error"]
+         }
+        }, {
+          "name": "Value",
+          "type": "number",
+          "dimension": false
+        }]
+      }
+    }
+  ],
+  "last_modified": "01/26/2023",
+  "ckan_extras": {
+    "full_description": {
+      "ckan_name": "Full Description",
+      "value": "Population by Age data is extracted from table B01001 and the race- and ethnicity-subtables of The American Community Survey (ACS), specifically tables B01001A through B01001I. We also calculated the number and percent of non-Hispanic residents for all years, geographies, gender, and age cohorts. The ACS collects data from a sample of the population on a rolling monthly basis. 1, 3, and 5-year aggregates are released annually. Beginning in 2000, questions about race were reformatted to allow surveyed individuals to select one or more races. The Census also asked individuals to identify Hispanic origin separate from race. While the race and ethnicity subtables options for B01001 include combinations of two or more specific race designation (e.g White and Asian or Asian and Alaska Native), we have chosen not to include those subsets of the data. The age cohorts presented in the race- and ethnicity-specific subtables differ from those in the B01001. In order to enable comparison across all available variables, we have aggregated all data to use the more restrictive age cohort groupings. Margins of error were recalculated using the formulas as defined by the US Census in their Compass handbooks. Percentages for each disaggregation were also calculated along with corresponding margins of error. The denominator for any given percentage calculation was the total population for given geography in the given year. For example, the percentage of 0-4, Male, Hispanic in Hartford in 2011-2015 was calculated using the total population of Hartford in 2011-2015. The methodology used to compute the total state-level population estimates differ from those used to produced the subcounty estimates. This alternate methodology does not generate a margin of error estimate. In our data tables, margins of error for those values will be reported as zero.",
+      "type": "string"
+    },
+    "suppression": {
+      "ckan_name": "Suppression",
+      "value": "",
+      "type": "string"
+    },
+    "technical_notes": {
+      "ckan_name": "Technical Notes",
+      "value": "",
+      "type": "string"
+    },
+    "socrata": {
+      "ckan_name": "Socrata",
+      "value": "False",
+      "type": "string"
+    },
+    "socrata_url": {
+      "ckan_name": "Socrata Dataset URL",
+      "value": "",
+      "type": "string"
+    },
+    "socrata_dataset_name": {
+      "ckan_name": "Socrata Dataset Name",
+      "value": "",
+      "type": "string"
+    },
+    "domain": {
+      "ckan_name": "Domain",
+      "value": "Demographics",
+      "type": "string"
+    },
+    "subdomain": {
+      "ckan_name": "Subdomain",
+      "value": "Population",
+      "type": "string"
+    },
+    "numerator": {
+      "ckan_name": "Numerator",
+      "value": "Population per indicator age range",
+      "type": "string"
+    },
+    "denominator": {
+      "ckan_name": "Denominator",
+      "value": "Total population for that Town, Year, and Race/Ethnicity",
+      "type": "string"
+    },
+    "geography": {
+      "ckan_name": "Geography",
+      "value": "Town",
+      "type": "string",
+      "constraints": {"enum": ["Town", "County", "Town/County", "District", "Other"]}
+    },
+    "frequency": {
+      "ckan_name": "Frequency",
+      "value": "Annual",
+      "type": "string"
+    },
+    "years_in_catalog": {
+      "ckan_name": "Years in Catalog",
+      "value": ["2005-2009", "2006-2010", "2007-2011", "2008-2012", "2009-2013", "2010-2014", "2011-2015", "2012-2016", "2013-2017", "2014-2018", "2016-2020"],
+      "type": "array"
+    },
+    "latest_year": {
+      "ckan_name": "Latest Year Available",
+      "value": "2016-2020",
+      "type": "string"
+    },
+    "disabled_views": {
+      "ckan_name": "Disabled Views",
+      "value": [],
+      "type": "array",
+      "constraints": {"enum": ["map", "table", "bar", "line"]}
+    },
+    "units": {
+      "ckan_name": "Units",
+      "value": {
+        "Number": "",
+        "Percent": "%"
+      }
+    },
+    "expected_number_of_geographies": {
+      "ckan_name": "Expected Number of Unique Geographies",
+      "value": 170,
+      "type": "string"
+    },
+    "default": {
+      "ckan_name": "Default",
+      "value": {
+        "Town": "Oregon",
+        "Year": ["2016-2020"],
+        "Age Cohort": "Total",
+        "Race/Ethnicity": "All",
+        "Variable": "Population"
+      },
+      "type": "object"
+    }
+  },
+  "spot_checks": [
+    {
+      "type": "$lookup",
+      "filter": {
+        "Town": "Portland",
+        "Year":	"2017-2021",
+        "Gender": "Female",
+        "Race/Ethnicity": "Hispanic or Latino",
+        "Age Cohort": "10 to 14 years",
+        "Measure Type":	"Number",
+        "Variable":	"Population"
+      },
+      "expected": {
+        "type": "$match",
+        "number type": "int",
+        "value": 3267
+      }
+    }
+  ],
+  "dimension_groups": [
+     {
+       "Age Cohort": ["Total"],
+       "Gender": ["Total"],
+       "Race/Ethnicity": ["All", "American Indian and Alaska Native Alone",
+                          "Asian Alone", "Black or African American Alone",
+                          "Hispanic or Latino", "Native Hawaiian and Other Pacific Islander",
+                          "Some Other Race Alone", "Two or More Races", "White Alone",
+                          "White Alone Not Hispanic or Latino"],
+       "Measure Type": ["Number"],
+       "Variable": ["Population", "Margins of Error"]
+     },
+     {
+       "Age Cohort": ["Total"],
+       "Gender": ["Male", "Female"],
+       "Race/Ethnicity": ["All", "American Indian and Alaska Native Alone",
+                          "Asian Alone", "Black or African American Alone",
+                          "Hispanic or Latino", "Native Hawaiian and Other Pacific Islander",
+                          "Some Other Race Alone", "Two or More Races", "White Alone",
+                          "White Alone Not Hispanic or Latino"],
+       "Measure Type": ["Number", "Percent"],
+       "Variable": ["Population", "Margins of Error"]
+     },
+     {
+       "Age Cohort": ["0 to 4 years", "5 to 9 years", "10 to 14 years", "15 to 19 years",
+                      "20 to 24 years", "25 to 29 years", "30 to 34 years", "35 to 44 years",
+                      "45 to 54 years", "55 to 64 years", "65 to 74 years", "75 to 84 years",
+                      "85 years and over"],
+       "Gender": ["Total", "Male", "Female"],
+       "Race/Ethnicity": ["All", "American Indian and Alaska Native Alone",
+                          "Asian Alone", "Black or African American Alone",
+                          "Hispanic or Latino", "Native Hawaiian and Other Pacific Islander",
+                          "Some Other Race Alone", "Two or More Races", "White Alone",
+                          "White Alone Not Hispanic or Latino"],
+       "Measure Type": ["Number", "Percent"],
+       "Variable": ["Population", "Margins of Error"]
+     }
+  ]
+}
